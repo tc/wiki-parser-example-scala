@@ -1,0 +1,1254 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.5/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.5/ http://www.mediawiki.org/xml/export-0.5.xsd" version="0.5" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.18wmf1</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>New York City</title>
+    <id>645042</id>
+    <revision>
+      <id>457014365</id>
+      <timestamp>2011-10-23T17:59:49Z</timestamp>
+      <contributor>
+        <username>Castncoot</username>
+        <id>13902714</id>
+      </contributor>
+      <comment>/* Architecture */ clarification</comment>
+      <text xml:space="preserve" bytes="167857">{{About|the city}}
+{{Redirect4|New York, New York|NYC}}
+{{Use mdy dates|date=June 2011}}
+{{pp-semi-protected|small=yes}}
+&lt;!-- Don't add a particular image size to most images of this article, it will be reverted. The images need to be able to customize from personal preferences.  --&gt;
+{{Infobox settlement
+|name                            = New York City
+|official_name                   = City of New York
+|native_name                     = &lt;!-- for cities whose native name is not in English --&gt;
+|nickname                        = &lt;br&gt;The [[Big Apple]], Gotham, [[Center of the universe|Center of the Universe]], The City That Never Sleeps,&lt;ref&gt;{{cite web|url=http://hotword.dictionary.com/big-apple-gotham/|title=Why is New York City known as &quot;the Big Apple&quot; and &quot;Gotham?&quot;|publisher=Dictionary.com, LLC|accessdate=June 16, 2011}}&lt;/ref&gt; The Capital of the World&lt;ref&gt;{{cite web|url=http://www.mpiweb.org/Archive?id=2972 |title=Showcase Destinations New York City: Capital of the World |publisher=Mpiweb.org |date=September 22, 1924 |accessdate=June 16, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.nyc.gov/html/lmec/html/about/nycapital.shtml|title=About New York City|publisher=The City of New York|accessdate=June 16, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.baruch.cuny.edu/nycdata/forward.htm|title=FORWARD New York – Capital of the Modern World|author=Eugene J. Sherman|publisher=The Weissman Center for International Business Baruch College/CUNY 2011|accessdate=June 16, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.tripouttravel.com/new-york-city-the-capital-of-the-world/|title=New York City: The Capital of the World|publisher=2011 Viacom International Inc|accessdate=June 16, 2011}}&lt;/ref&gt;
+|settlement_type                 = [[City (New York)|City]]
+|motto                           =
+|image_skyline                   = NYC Montage 2011.jpg
+|imagesize                       = 300px
+|image_caption                   = Clockwise from top: [[Midtown Manhattan]], the [[United Nations Headquarters]], the [[Statue of Liberty]], the [[Brooklyn Bridge]], [[Central Park]], [[Times Square]], and  the [[Unisphere]] in [[Queens]].
+|image_flag                      = Flag of New York City.svg
+|flag_size                       =
+|image_seal                      = Seal of the City of New York.svg
+|seal_size                       =
+|image_map                       = NYC NY.png
+|mapsize                         = 250px
+|map_caption                     = Location in the state of New York
+|image_map1                      =
+|mapsize1                        =
+|map_caption1                    =
+|image_dot_map                   =
+|dot_mapsize                     =
+|dot_map_caption                 =
+|dot_x                           =
+|dot_y                           =
+|pushpin_map                     = USA2
+|pushpin_label_position          = right
+|pushpin_map_caption             = Location in the United States
+|mapsize                         = 160px
+|coordinates_display             = inline,title
+|coordinates_region              = US-NY
+|subdivision_type                = Country
+|subdivision_name                = [[United States]]
+|subdivision_type1               = State
+|subdivision_name1               = [[New York]]
+|subdivision_type2               = [[county (United States)|Counties]]
+|subdivision_name2               = [[Bronx]]&lt;br /&gt;[[Brooklyn|Kings]]&lt;br /&gt;[[Manhattan|New York]]&lt;br /&gt;[[Queens]]&lt;br /&gt;[[Staten Island|Richmond]]
+|government_foonotes             =
+|government_type                 = [[Mayor-council government|Mayor-Council]]
+|governing_body                  = [[New York City Council]]
+|leader_title                    = [[Mayor of New York City|Mayor]]
+|leader_name                     = [[Michael Bloomberg]] ([[Independent (politician)|I]])&lt;ref name=&quot;MayorsOffice&quot;&gt;
+{{cite web
+  |url=http://www.nyc.gov/portal/site/nycgov/menuitem.e985cf5219821bc3f7393cd401c789a0/
+  |title=Biography
+  |accessdate=January 8, 2010
+  |publisher=New York, City of
+  |author=the Mayor, New York City Office of
+  |date=January 8, 2010}}
+&lt;/ref&gt;
+|established_title               = [[New Amsterdam|Settled]]
+|established_date                = 1624
+|established_title2              = &lt;!-- Incorporated (town) --&gt;
+|established_date2               =
+|established_title3              = &lt;!-- Incorporated (city) --&gt;
+|established_date3               = 1898
+|area_magnitude                  = 1 E9
+|unit_pref                       = Imperial
+|area_footnotes                  =
+|area_total_km2                  = 1214.4
+|area_land_km2                   = 789.4
+|area_water_km2                  = 428.8
+|area_total_sq_mi                = 468.9
+|area_land_sq_mi                 = 304.8
+|area_water_sq_mi                = 165.6
+|area_water_percent              =
+|area_urban_km2                  = 8683.2
+|area_urban_sq_mi                = 3352.6
+|area_metro_km2                  = 17405
+|area_metro_sq_mi                = 6720
+|area_blank1_title               =
+|area_blank1_km2                 =
+|area_blank1_sq_mi               =
+|population_as_of                = April 1, [[2010 United States Census]]
+|population_footnotes            =&lt;ref name=&quot;2010 Census pop est&quot;/&gt;&lt;ref name=metro/&gt;
+|population_note                 =
+|population_total                = 8,175,133
+|population_density_km2          = 10630
+|population_density_sq_mi        = 27532
+|population_metro                = 18897109
+|population_density_metro_km2    = auto
+|population_density_metro_sq_mi  = auto
+|population_urban                = 18223567
+|population_density_urban_km2    = auto
+|population_density_urban_sq_mi  = auto
+|population_combined_statistical_area      = 22.2&amp;nbsp;million
+|population_demonym              = New Yorker
+|population_density_blank1_km2   =
+|population_density_blank1_sq_mi =
+|timezone                        = [[Eastern Time Zone (North America)|EST]]
+|utc_offset                      = -5
+|timezone_DST                    = [[Eastern Time Zone (North America)|EDT]]
+|utc_offset_DST                  = -4
+|latd  = 40|latm  =43 |lats = |latNS  = N
+|longd = 74|longm =00 |longs= |longEW = W
+|elevation_footnotes             = &lt;!-- for references: use tags --&gt;
+|elevation_m                     = 10
+|elevation_ft                    = 33
+|postal_code_type                = ZIP codes
+|postal_code                     = 100xx-104xx, 11004-05, 111xx-114xx, 116xx
+|area_code                       = [[Area code 212|212]], [[Area code 718|718]], [[Area code 917|917]], [[Area code 646|646]], [[Area code 347|347]], [[Area code 929|929]]
+|blank_name                      =
+|blank_info                      =
+|blank1_name                     =
+|blank1_info                     =
+|website                         = {{URL|http://www.nyc.gov/}}
+}}
+'''New York''' is the [[List of United States cities by population|most populous city]] in the [[United States]]&lt;ref&gt;{{cite web|url=http://www.census.gov/popest/cities/SUB-EST2009.html|title=Annual Estimates of the Resident Population for Incorporated Places over 100,000, Ranked by July 1, 2009 Population: April 1, 2000 to July 1, 2009 (SUB-EST2009-01)|publisher=U.S. Census Bureau|accessdate=April 26, 2011}}&lt;/ref&gt; and the center of the [[New York Metropolitan Area]], one of the [[List of metropolitan areas by population|most populous metropolitan areas]] in the world.&lt;ref&gt;{{cite web|url=http://www.mongabay.com/cities_urban_01.htm|title=World's Largest Urban Areas [Ranked by Urban Area Population]|publisher=Rhett Butler |year=2003–2006|accessdate=April 26, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.worldatlas.com/citypops.htm|title=Largest Cities of the World – (by metro population)|publisher=Woolwine-Moen Group d/b/a Graphic Maps|accessdate=April 26, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.demographia.com/db-wlargestua.pdf|title=Largest urban areas in the world: 2008 All Urban Areas 2,000,000 &amp; Over|publisher=Wendell Cox Consultancy|accessdate=April 26, 2011}}&lt;/ref&gt; New York exerts a significant impact upon global commerce, finance, media, art, fashion, research, technology, education, and entertainment. The home of the [[United Nations Headquarters]],&lt;ref&gt;{{cite web|url=http://visit.un.org/wcm/content/|title=United Nations Visitors Centre|publisher=United Nations |year= 2011|accessdate=April 26, 2011}}&lt;/ref&gt; New York is an important center for international affairs and is widely deemed the cultural capital of the world.&lt;ref&gt;{{cite web|url=http://www.iceland.is/iceland-abroad/us/nyc/cultural-affairs/|title=Consulate General of Iceland New York Culture|publisher=Consulate General of Iceland New York|accessdate=June 27, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.baruch.cuny.edu/nycdata/chapter13_files/intro.htm|title=Introduction to Chapter 13: Culture|publisher=The Weissman Center for International Business, Baruch College/CUNY 2010|accessdate=June 8, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://forums.civfanatics.com/showthread.php?t=370517|title=Cultural capital of the world|publisher=Jelsoft Enterprises Ltd |year=2000–2011|accessdate=June 8, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.studentevents.com/events/nyu-.html|title=NYU’s Cultural Capital program|publisher=New York University |year=2011|accessdate=June 8, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://catalogue.nla.gov.au/Record/371497|title=New York, culture capital of the world, 1940–1965 / edited by Leonard Wallock ; essays by Dore Ashton ... [et al.]|publisher=NATIONAL LIBRARY OF AUSTRALIA|accessdate=June 8, 2011}}&lt;/ref&gt; The city is also referred to as '''New York City''' or the '''City of New York'''&lt;ref&gt;{{cite web|url=http://www.nyc.gov/portal/site/nycgov/?front_door=true|title=Welcome to the official New York City Web site|publisher=The City of New York |year=2011 |accessdate=2011-09-18}}&lt;/ref&gt; to distinguish it from the [[New York|state of New York]], of which it is a part.&lt;ref&gt;{{cite web|url=http://www.nysegov.com/citguide.cfm?context=citguide&amp;content=munibyalpha&amp;alpha=N|title=All Municipality Websites Listed Alphabetically|publisher=New York State|accessdate=2011-09-18}}&lt;/ref&gt;
+
+Located on [[New York Harbor|one of the world's largest natural harbors]],&lt;ref&gt;{{cite web|url=http://www.history.com/shows/how-the-earth-was-made/videos/new-york-harbor#new-york-harbor|title=How The Earth Was Made|publisher=© 1996-2011, A&amp;E Television Networks, LLC. All Rights Reserved|accessdate=2011-09-19}}&lt;/ref&gt; New York City consists of five [[Borough (New York City)|boroughs]]: [[The Bronx]], [[Brooklyn]], [[Manhattan]], [[Queens]], and [[Staten Island]].&lt;ref&gt;{{cite web|url=http://www.nyc.gov/html/dcp/html/neighbor/neigh.shtml|title=New York: A City of Neighborhoods|publisher=New York City Department of City Planning|accessdate=April 30, 2011}}&lt;/ref&gt; With a [[2010 United States Census]] population of 8,175,133&lt;ref name=&quot;2010 Census pop est&quot; /&gt; distributed over a land area of just {{convert|305|sqmi|km2}},&lt;ref name=&quot;area;&quot;&gt;[http://factfinder.census.gov/servlet/GCTTable?_bm=y&amp;-context=gct&amp;-ds_name=DEC_2000_SF1_U&amp;-CONTEXT=gct&amp;-mt_name=DEC_2000_SF1_U_GCTPH1_US9&amp;-tree_id=4001&amp;-redoLog=true&amp;-_caller=geoselect&amp;-geo_id=04000US36&amp;-format=ST-2|ST-2S&amp;-_lang=en American Fact Finder (U.S. Census Bureau): New York by County – Table GCT-PH1. Population, Housing Units, Area, and Density:  2000 Data Set: Census 2000 Summary File 1 (SF 1) 100-Percent Data], retrieved on February 6, 2009
+&lt;/ref&gt;&lt;ref name=&quot;NYC Land Estimate&quot;&gt;
+{{cite web
+ |publisher=New York City Department of City Planning
+ |title=NYC Profile
+ |url=http://home2.nyc.gov/html/dcp/pdf/lucds/nycprofile.pdf
+ |accessdate=May 22, 2008
+ |format=PDF}}
+&lt;/ref&gt;&lt;ref name=&quot;NYT Land Estimate&quot;&gt;
+{{Cite news
+ |work=The New York Times
+ |title=It's Still a Big City, Just Not Quite So Big
+ |first=Sam |last=Roberts
+ |url=http://www.nytimes.com/2008/05/22/nyregion/22shrink.html
+ |accessdate=May 22, 2008
+ |date=May 22, 2008}}&lt;/ref&gt; New York is the [[List of United States cities by population density|most densely populated]] major city in the United States.&lt;ref name=&quot;density&quot;&gt;[http://factfinder.census.gov/servlet/GCTTable?_bm=y&amp;-ds_name=DEC_2000_SF1_U&amp;-CONTEXT=gct&amp;-mt_name=DEC_2000_SF1_U_GCTPH1_US9&amp;-redoLog=false&amp;-_caller=geoselect&amp;-geo_id=&amp;-format=US-25|US-25S&amp;-_lang=en ''County and City Data Book:2007'' (U.S. Census Bureau), Table B-1, Area and Population], retrieved on July 12, 2008.&lt;/ref&gt;
+As many as 800 languages are spoken in New York, making it the most linguistically diverse city in the world.&lt;ref&gt;
+{{Cite news
+ |url=http://www.nytimes.com/2010/04/29/nyregion/29lost.html?hpw
+ |title=Listening to (and Saving) the World's Languages
+ |accessdate=April 29, 2010
+ |work=The New York Times
+ |first=Sam|last=Roberts
+ |date=April 28, 2010}}
+&lt;/ref&gt;
+The New York City Metropolitan Area's population is the United States' largest, estimated at 18.9&amp;nbsp;million people distributed over {{convert|6720|sqmi|km2}},&lt;ref name=metro&gt;{{cite web|url=http://www.census.gov/prod/cen2010/briefs/c2010br-01.pdf|title=Population Change for the Ten Most Populous and Fastest Growing Metropolitan Statiscal Areas: 2000 to 2010|date=March 2011|publisher=U.S. Census Bureau|page=6|accessdate=April 12, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.nycgo.com/articles/nyc-statistics-page|title=NYC The Official Guide nycgo.com - nyc statistics|publisher=© 2006–2011 NYC &amp; Company, Inc. All rights reserved|accessdate=2011-09-17}}&lt;/ref&gt; and is also part of the most populous [[combined statistical area]] in the United States, containing 22.2&amp;nbsp;million people as of 2009 Census estimates.&lt;ref&gt;{{cite web|url=http://factfinder.census.gov/servlet/ADPTable?_bm=y&amp;-geo_id=33000US408&amp;-qr_name=ACS_2009_1YR_G00_DP5&amp;-context=adp&amp;-ds_name=&amp;-tree_id=309&amp;-_lang=en&amp;-redoLog=false&amp;-format=|title=New York-Newark-Bridgeport, NY-NJ-CT-PA CSA ACS Demographic and Housing Estimates: 2009|publisher=U.S. Census Bureau|accessdate=April 30, 2011}}&lt;/ref&gt; New York is the most highly [[Google (verb)|googled]] location in the world; registering 4.6 billion [[internet search|search results]] as of September 2011.&lt;ref&gt;{{cite web|url=http://www.google.com/search?q=new+york&amp;rls=com.microsoft:en-us:IE-Address&amp;ie=UTF-8&amp;oe=UTF-8&amp;sourceid=ie7&amp;rlz=1I7ADRA_en|title=New York - Google Search|publisher=Google Inc|accessdate=2011-09-09}}&lt;/ref&gt;
+
+New York traces its roots to its 1624 founding as a trading post by colonists of the [[Dutch Republic]], and was named [[New Amsterdam]] in 1626.&lt;ref&gt;{{cite web|url=http://www.u-s-history.com/pages/h2122.html|title=United States HISTORY New York City, New York|accessdate=May 8, 2011}}&lt;/ref&gt; The city and its surrounds came under [[Kingdom of England|English]] control in 1664&lt;ref&gt;
+{{Cite book
+ |last= Shorto|first= Russell
+ |title= The Island at the Center of The World, 1st Edition
+ |year= 2005
+ |publisher=Vintage Books
+ |location=New York
+ |isbn= 1-4000-7867-9
+ |page=30}}
+&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.u-s-history.com/pages/h2122.html|title=United States HISTORY New York City, New York|accessdate=May 10, 2011}}&lt;/ref&gt; and were renamed ''New York'' after King [[Charles II of England]] granted the lands to his brother, the [[James II of England|Duke of York]].&lt;ref&gt;{{cite web|url=http://www.mrnussbaum.com/13colonies/printables/njcolony.pdf|title=The New Jersey Colony|publisher=MrNussbaum.com|accessdate=May 10, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.nps.gov/nr/travel/kingston/colonization.htm|title=KINGSTON Discover 300 Years of New York History DUTCH COLONIES|publisher=National Park Service, U.S. Department of the Interior|accessdate=May 10, 2011}}&lt;/ref&gt; New York served as the [[List of capitals in the United States#Former national capitals|capital of the United States]] from 1785 until 1790.&lt;ref name=senate&gt;
+{{cite web
+ |url=http://www.senate.gov/reference/reference_item/Nine_Capitals_of_the_United_States.htm
+ |title=The Nine Capitals of the United States
+ |publisher=[[United States Senate]]
+ |accessdate=September 7, 2008}}
+&lt;/ref&gt;
+It has been the country's largest city since 1790.&lt;ref&gt;
+{{cite web
+ |url=http://www.census.gov/population/www/documentation/twps0027/tab01.txt
+ |title=Rank by Population of the 100 Largest Urban Places, Listed Alphabetically by State:  1790–1990
+ |date=June 15, 1998
+ |publisher=U.S. Census Bureau
+ |accessdate=February 8, 2009}}
+&lt;/ref&gt; The [[Statue of Liberty]] greeted millions of [[Immigration to the United States|immigrants]] as they came to America by ship in the late 19th and early 20th centuries&lt;ref&gt;{{cite web|url=http://www.history.com/topics/statue-of-liberty|title=Statue of Liberty|publisher=1996–2011, A&amp;E Television Networks, LLC. All Rights Reserved|accessdate=May 21, 2011}}&lt;/ref&gt; and is a globally recognized symbol of the United States and its [[democracy]].&lt;ref&gt;{{cite web| title = Statue of Liberty| work=World Heritage| publisher=© UNESCO World Heritage Centre 1992-2011| url = http://whc.unesco.org/en/list/307| accessdate = 2011–10–23}}&lt;/ref&gt;
+
+Many districts and landmarks in New York City have become well known to its nearly 50 million annual visitors.&lt;ref&gt;{{cite web|url=http://www.nycgo.com/articles/nyc-statistics-page|title=NYC The Official Guide nycgo.com - nyc statistics|publisher=© 2006–2011 NYC &amp; Company, Inc. All rights reserved|accessdate=2011-09-16}}&lt;/ref&gt; [[Times Square]], iconified as &quot;The Crossroads of the World&quot;,&lt;ref&gt;{{cite web|url=http://pbskids.org/bigapplehistory/arts/topic15.html|title=Big Apple History Arts and Entertainment The Crossroads of the World|publisher=Thirteen/WNET New York  2005 Educational Broadcasting Corporation|accessdate=April 26, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.timessquarenyc.org/|title=Crossroads of the world - Times Square the official website of Times Square |publisher=Times Square District Management Association, Inc|accessdate=April 26, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.nyctourist.com/times-square.php|title=Times Square New York, NY Times Square|publisher=2011 NYCTourist.com|accessdate=May 10, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.timessquare.com/NYC__/NYC_Stories/_The_Big_Apple%E2%80%99s_economic_hub/|title=Times Square Crossroads of the World New York City Info|publisher=Dataware Corporation|accessdate=May 10, 2011}}&lt;/ref&gt; is the brightly illuminated hub of the [[Broadway theatre|Broadway theater]] district,&lt;ref&gt;{{cite web|url=http://www.britannica.com/EBchecked/topic/596253/Times-Square|title=Times Square|publisher=Encyclopaedia Britannica|accessdate=May 10, 2011}}&lt;/ref&gt; one of the world's busiest pedestrian intersections,&lt;ref&gt;{{cite web|url=http://www.diserio.com/streetscapes.html|title=The Most Jivin' Streetscapes in the World|publisher=Luigi Di Serio|year=2010 |accessdate=May 10, 2011}}&lt;/ref&gt; and a major center of the world's [[entertainment industry]].&lt;ref&gt;{{cite web|url=http://www.nyc-architecture.com/MID/MID-TimesSquare3.htm|title=New York Architecture Images- Midtown Times Square|publisher=2011 nyc-architecture|accessdate=May 10, 2011}}&lt;/ref&gt; The city hosts many world renowned [[Bridges and tunnels in New York City|bridges]], skyscrapers,&lt;ref&gt;{{cite web|url=http://buildingdb.ctbuh.org/?do=city&amp;city=NYC&amp;country=US|title=Buildings in New York City|publisher=Council on Tall Buildings and Urban Habitat|accessdate=June 8, 2011}}&lt;/ref&gt; and [[List of New York City parks|parks]]. New York City's financial district, anchored by [[Wall Street]] in [[Lower Manhattan]], functions as the [[financial centre|financial capital]] of the world&lt;ref&gt;{{cite web|url=http://www.moneycontrol.com/news/world-news/ubs-may-move-us-investment-bank-to-nyc_556257.html|title=UBS may move US investment bank to NYC|publisher=e-Eighteen.com Ltd|accessdate=June 12, 2011}}&lt;/ref&gt;&lt;ref&gt;
+{{Cite book
+ |url=http://books.google.com/?id=dWA7aEbsy8QC&amp;pg=PA154&amp;dq=new+york+financial+capital+of+the+world+2010&amp;q=new%20york%20financial%20capital%20of%20the%20world%202010
+ |title=The Best 301 Business Schools 2010 by Princeton Review, Nedda Gilbert
+ |accessdate=May 30, 2010
+ |publisher=Random House Information Group
+ |isbn=9780375429590
+ |author1=Review, Princeton
+ |author2=Gilbert, Nedda
+ |date=October 6, 2009}}
+&lt;/ref&gt;&lt;ref&gt;
+{{cite web
+ |url=http://wirednewyork.com/forum/showthread.php?t=22541
+ |title=Financial Capital of the World: NYC
+ |publisher=Wired New York/Bloomberg
+ |accessdate=May 30, 2010}}
+&lt;/ref&gt;&lt;ref&gt;
+{{Cite news
+ |url=http://online.wsj.com/article/SB123940286075109617.html
+ |title=The Tax Capital of the World
+ |work=The Wall Street Journal
+ |accessdate=May 30, 2010
+ |date=April 11, 2009}}
+&lt;/ref&gt;&lt;ref&gt;
+{{cite web
+ |url=http://justoneminute.typepad.com/main/2010/04/editorializing-from-the-financial-capital-of-the-world.html
+ |title=JustOneMinute&amp;nbsp;– Editorializing From The Financial Capital Of The World
+ |accessdate=May 30, 2010}}
+&lt;/ref&gt;&lt;ref&gt;
+{{cite web
+ |url=http://www.marketwatch.com/story/credit-crunch-shows-new-york-is-still-worlds-financial-capital/
+ |title=London may have the IPOs...
+ |publisher=Marketwatch
+ |accessdate=May 30, 2010}}
+&lt;/ref&gt;&lt;ref&gt;
+{{cite web
+ |url=http://www.cincodias.com/articulo/mercados/Londres-versus-Nueva-York/20080901cdscdimer_3/cdsmer/
+ |title=Fondos&amp;nbsp;– Londres versus Nueva York
+ |format=PDF
+ |publisher=Cinco Dias
+ |language=Spanish
+ |accessdate=May 30, 2010}}
+&lt;/ref&gt;
+and is home to the [[New York Stock Exchange]], the world's largest stock exchange by total [[market capitalization]] of its listed companies.&lt;ref&gt;{{cite web|url=http://www.world-exchanges.org/files/file/stats%20and%20charts/July%202010%20WFE%20Market%20Highlights.pdf|title=Market highlights for first half-year 2010|publisher=World Federation of Exchanges|accessdate=April 13, 2011}}&lt;/ref&gt; Manhattan's real estate market is among the most prized and expensive in the world.&lt;ref&gt;
+{{cite web
+ |url=http://www.cnbc.com/id/29862382/The_World_s_Most_Expensive_Real_Estate_Markets?slide=9
+ |title=The World's Most Expensive Real Estate Markets
+ |publisher=CNBC
+ |accessdate=May 30, 2010}}
+&lt;/ref&gt; [[Chinatown, Manhattan|Manhattan's Chinatown]] incorporates the highest concentration of [[Chinese people]] in the Western Hemisphere.&lt;ref&gt;{{cite web|url=http://www.ny.com/articles/chinatown.html|title=The History of New York's Chinatown|author=Sarah Waxman|publisher=Mediabridge Infosystems, Inc.|accessdate=March 5, 2011}}&lt;/ref&gt; Unlike most global [[rapid transit|rapid transit systems]], the [[New York City Subway]] is designed to provide [[24/7]] service.&lt;ref name=twentyfour&gt;{{cite news
+|url=http://www.nytimes.com/2005/12/20/nyregion/nyregionspecial3/20security.html?_r=1&amp;oref=slogin
+|title=With Terrorism Concerns in Mind, Police Prepare to Guard a Shuttered System
+|work=The New York Times
+|date=December 20, 2005
+|accessdate=April 25, 2011
+| first1=Al
+| last1=Baker
+| first2=Richard
+| last2=Pérez-Peña
+}}&lt;/ref&gt; Numerous colleges and universities are located in New York,&lt;ref&gt;{{cite web|url=http://www.ny.com/academia/colleges.html|title=NYC Colleges and Universities|publisher=© Mediabridge Infosystems, Inc. 1994-2011|accessdate=2011-10-13}}&lt;/ref&gt; including [[Columbia University]], [[New York University]], and [[Rockefeller University]], which are ranked among the top 100 in the world.&lt;ref&gt;{{cite web|url=http://www.arwu.org/ARWU2010.jsp |title=Academic Ranking of World Universities |publisher=Arwu.org |accessdate=January 18, 2011}}&lt;/ref&gt;
+
+==History==
+{{Main|History of New York City}}
+
+The region was inhabited by the [[Lenape]] Native Americans at the time of its European discovery in 1524&lt;ref&gt;[http://www.gothamcenter.org/ &quot;Gotham Center for New York City History&quot;] Timeline 1500–1700&lt;/ref&gt; by [[Giovanni da Verrazzano]], a [[Florence|Florentine]] explorer in the service of the French crown, who named it &quot;Nouvelle Angoulême&quot; ([[New Angoulême]]).&lt;ref name=&quot;rodgers&quot;&gt;{{Cite book|title=New York: the World's Capital City, Its Development and Contributions to Progress |author=Rankin, Rebecca B., Cleveland Rodgers |publisher=Harper |year=1948}}&lt;/ref&gt; European settlement began with the founding of a Dutch fur trading settlement, later called &quot;Nieuw Amsterdam&quot; ([[New Amsterdam]]), on the southern tip of Manhattan in 1614. Dutch colonial Director-General [[Peter Minuit]] purchased the island of Manhattan from the Lenape in 1626 for a value of 60 [[Dutch guilder|guilders]]&lt;ref&gt;[http://www.s4ulanguages.com/laet2.html ''Pieter Schaghen Letter'' 1626]: &quot;[...]hebben t'eylant Manhattes van de wilde gekocht, voor de waerde van 60 gulden: is groot 11000 morgen.[...]&quot;(&quot;[...]They have purchased the Island Manhattes from the Indians for the value of 60 guilders. It is 11,000 morgens in size[...])&lt;/ref&gt;  (about $1000 in 2006);&lt;ref&gt;
+{{cite web
+  |url=http://www.iisg.nl/hpw/calculate.php
+  |title=Value of the Guilder / Euro
+  |accessdate=August 19, 2008
+  |publisher=International Institute of Social History
+}}&lt;/ref&gt; a disproved legend says that Manhattan was purchased for $24 worth of glass beads.&lt;ref&gt;{{cite web|url=http://www.nnp.org/nnp/documents/schagen_main.html |title=Letter describing purchase by Pieter Schaghen from Dutch National Archive, The Hague, with transcription |publisher=Nnp.org |accessdate=October 28, 2010}}&lt;/ref&gt;&lt;ref&gt;
+{{Cite journal|last=Miller, Christopher L., George R. Hamell|title=A New Perspective on Indian-White Contact: Cultural Symbols and Colonial Trade |journal=The Journal of American History |volume=73 |issue=2 |month=September |year=1986 |page=311 |doi=10.2307/1908224 |author1=Miller, Christopher L |author2=Hamell, George R |publisher=Organization of American Historians |jstor=1908224|pages=311–328}}&lt;/ref&gt;
+
+In 1664, the city was surrendered to the English and renamed &quot;New York&quot; after the [[James II of England|English Duke of York and Albany]].&lt;ref&gt;
+{{Cite book
+  |title=The Historical Atlas of New York City: A Visual Celebration of 400 Years of New York City's History
+  |author=Homberger, Eric
+  |year=2005
+  |page=34
+  |publisher=Owl Books
+  |isbn=0805078428
+}}&lt;/ref&gt; At the end of the [[Second Anglo-Dutch War]] the Dutch gained control of [[Run (island)|Run]] (then a much more valuable asset) in exchange for the English controlling New Amsterdam (New York) in North America. Several intertribal wars among the Native Americans and some epidemics brought on by the arrival of the Europeans caused sizable population losses for the Lenape between the years 1660 and 1670.&lt;ref&gt;&quot;[http://www.penntreatymuseum.org/americans.php Native Americans]&quot;. Penn Treaty Museum.&lt;/ref&gt; By 1700, the Lenape population had diminished to 200.&lt;ref&gt;[http://www.gothamcenter.org/ &quot;Gotham Center for New York City History&quot;] Timeline 1700–1800&lt;/ref&gt; In 1702, the city lost 10% of its population to [[yellow fever]].&lt;ref&gt;&quot;[http://www.pbs.org/wgbh/amex/fever/timeline/index.html Timeline of Yellow Fever in America]&quot;. Public Broadcasting Service (PBS).&lt;/ref&gt; New York underwent no fewer than seven important [[Timeline of New York City crimes and disasters|yellow fever epidemics]] from 1702 to 1800.&lt;ref&gt;&quot;[http://jdc.jefferson.edu/cgi/viewcontent.cgi?article=1004&amp;context=yellow_fever_symposium The Early History of Yellow Fever]&quot; (PDF). Pedro Nogueira, [[Thomas Jefferson University]]. 2009.&lt;/ref&gt;
+[[File:GezichtOpNieuwAmsterdam.jpg|thumb|left|[[New Amsterdam]] as it appeared in 1664. Under British rule, it became known as &quot;New York&quot;.]]
+
+New York grew in importance as a trading port while under [[British Empire|British rule]]. The city hosted the influential [[John Peter Zenger]] trial in 1735, helping to establish the [[freedom of the press]] in North America. In 1754, [[Columbia University]] was founded under charter by [[George II of Great Britain]] as King's College in Lower Manhattan.&lt;ref&gt;{{Cite book|title=An Historical Sketch of Columbia College, in the City of New York, 1754–1876 |author=Moore, Nathaniel Fish |year=1876 |page=8 |publisher=Columbia College}}&lt;/ref&gt; The [[Stamp Act Congress]] met in New York in October of 1765 as the [[Sons of Liberty]] organized in the city, skirmishing over the next ten years with British troops stationed there.
+
+During the [[American Revolution]], the largest battle of the war, the [[Battle of Long Island]], was fought in August 1776 entirely within the modern day borough of Brooklyn. After the battle, in which the Americans were routed, leaving subsequent smaller engagements following in its wake, the city became the British military and political base of operations in North America. The city was a haven for [[Loyalist (American Revolution)|Loyalist]] refugees, until [[Evacuation Day (New York)|the war ended in 1783]]. The only attempt at a peaceful solution to the war took place at the [[Conference House]] on Staten Island between American delegates including [[Benjamin Franklin]], and British general [[Lord Howe]] on September 11, 1776. Shortly after the British occupation began the [[Great Fire of New York (1776)|Great Fire of New York]] occurred, a large conflagration which destroyed about a quarter of the buildings in the city, including [[Trinity Church (New York City)|Trinity Church]].&lt;ref&gt;Trinity Church bicentennial celebration, May 5, 1897 By Trinity Church (New York, N.Y.) p. 37&lt;/ref&gt;
+
+The assembly of the [[Congress of the Confederation]] made New York the national capital in 1785, shortly after the war. New York was the last capital of the U.S. under the [[Articles of Confederation]] and the first capital under the [[Constitution of the United States]]. In 1789 the first President of the United States, [[George Washington]], was inaugurated; the first [[United States Congress]] and the [[Supreme Court of the United States]] each assembled for the first time, and the [[United States Bill of Rights]] was drafted, all at [[Federal Hall]] on Wall Street.&lt;ref&gt;{{cite web|title=The People's Vote: President George Washington's First Inaugural Speech (1789) |publisher=U.S. News and World Report |url=http://www.usnews.com/usnews/documents/docpages/document_page11.htm |accessdate=September 1, 2008}}&lt;/ref&gt; By 1790, New York had surpassed [[Philadelphia]] as the largest city in the United States.
+
+In the 19th century, the city was transformed by immigration and development.&lt;ref&gt;Ira Rosenwaike (1972).&quot;[http://books.google.com/books?id=2OR2yeASrfIC&amp;pg=PA55&amp;dq&amp;hl=en#v=onepage&amp;q=&amp;f=false Population history of New York City]&quot;. p.55.&lt;/ref&gt; A visionary development proposal, the [[Commissioners' Plan of 1811]], expanded the city street grid to encompass all of Manhattan, and the 1819 opening of the [[Erie Canal]] connected the Atlantic port to the vast agricultural markets of the North American interior.&lt;ref&gt;
+{{Cite book
+  |author=Bridges, William
+  |title=Map Of The City Of New York And Island Of Manhattan With Explanatory Remarks And References
+  |year=181 1}}; Lankevich (1998), pp. 67–68.&lt;/ref&gt; Local politics fell under the domination of [[Tammany Hall]], a [[political machine]] supported by Irish immigrants.&lt;ref&gt;
+{{Cite book
+  |title=Fernando Wood: A Political Biography
+  |author=Mushkat, Jerome Mushkat
+  |publisher=Kent State University Press
+  |year=1990
+  |page=36
+  |isbn=087338413X
+}}&lt;/ref&gt; Several prominent American literary figures lived in New York during the 1830s and 1840s, including [[William Cullen Bryant]], [[Washington Irving]], [[Herman Melville]], [[Rufus Wilmot Griswold]], [[John Keese]], [[Nathaniel Parker Willis]], and [[Edgar Allan Poe]]. Public-minded members of the old merchant aristocracy lobbied for the establishment of [[Central Park]], which became the first landscaped park in an American city in 1857. A significant free-black population also existed in Manhattan and Brooklyn. Slaves had been held in New York through 1827, but during the 1830s New York became a center of interracial abolitionist activism in the North. New York's black population was over 16,000 in 1840.&lt;ref&gt;[http://www.history.emory.edu/newsletter01/newsl01/african.htm &quot;African-Americans in New York City, 1626–1863 by Leslie M. Harris&quot;]. Department of History at Emory University.&lt;/ref&gt; The [[Great Irish Famine]] brought a large influx of Irish immigrants, and by 1860, one in four New Yorkers&amp;nbsp;– over 200,000&amp;nbsp;– had been born in Ireland.&lt;ref&gt;[http://www.virtualny.cuny.edu/cholera/1866/cholera_1866_set.html &quot;Cholera in Nineteenth Century New York&quot;]. VNY, City University of New York.&lt;/ref&gt;
+
+[[File:Manhattan00.jpg|thumb|left|Bird's eye view [[Old master print|print]] of Manhattan &amp; New York City, 1873.]]
+Anger at military conscription during the [[American Civil War]] (1861–1865) led to the [[New York Draft Riots|Draft Riots of 1863]], one of the worst incidents of civil unrest in American history.&lt;ref&gt;
+{{Cite book
+  |title=The Armies of the Streets: The New York City Draft Riots of 1863
+  |author=Cook, Adrian
+  |year=1974
+  |pages=193–195
+}}&lt;/ref&gt;
+
+In 1898, the modern City of New York was formed with the consolidation of Brooklyn (until then a separate city), the County of New York (which then included parts of the Bronx), the County of Richmond, and the western portion of the County of Queens.&lt;ref&gt;[http://web.archive.org/web/20071011221627/http://nyc.gov/html/nyc100/html/classroom/hist_info/100aniv.html The 100 Year Anniversary of the Consolidation of the 5 Boroughs into New York City], New York City. Retrieved June 29, 2007.&lt;/ref&gt; The opening of the [[New York City Subway|subway]] in 1904 helped bind the new city together. Throughout the first half of the 20th century, the city became a world center for industry, commerce, and communication. However, this development did not come without a price. In 1904, the steamship ''[[General Slocum]]'' caught fire in the East River, killing 1,021 people on board.
+
+In 1911, the [[Triangle Shirtwaist Factory fire]], the city's worst industrial disaster until [[September 11 attacks|the 9/11 World Trade Center disaster]], took the lives of 146 garment workers and spurred the growth of the [[International Ladies' Garment Workers' Union]] and major improvements in factory safety standards.&lt;ref name=&quot;cornell1&quot;&gt;
+{{cite web
+  |url=http://www.ilr.cornell.edu/trianglefire/
+  |title=Cornell University Library: Triangle Factory Fire
+  |publisher=Cornell University
+  |accessdate=September 1, 2008
+}}&lt;/ref&gt;
+[[File:NewYorkCityManhattanRockefellerCenter.jpg|thumb|right|[[Midtown Manhattan]], New York City, from [[Rockefeller Center]], 1932]]
+
+New York's nonwhite population was 36,620 in 1890.&lt;ref&gt;Ira Rosenwaike (1972).&quot;''[http://books.google.com/books?id=2OR2yeASrfIC&amp;pg=PA78&amp;dq&amp;hl=en#v=onepage&amp;q=&amp;f=false Population history of New York City]''&quot;. p.78.&lt;/ref&gt; In the 1920s, New York City was a prime destination for African Americans during the [[Great Migration (African American)|Great Migration]] from the American South. By 1916, New York City was home to the largest urban African diaspora in North America. The [[Harlem Renaissance]] flourished during the era of [[Prohibition in the United States|Prohibition]], coincident with a larger economic boom that saw the skyline develop with the construction of competing skyscrapers.
+
+New York became the most populous urbanized area in the world in early 1920s, overtaking London, and the metropolitan area surpassed the 10 million mark in early 1930s, becoming the first [[megacity]] in human history.&lt;ref&gt;
+{{cite web
+  |url=http://www.demographia.com/db-nyuza1800.htm
+  |title=New York Urbanized Area: Population &amp; Density from 1800 (Provisional)
+  |publisher=Demographia.com
+  |accessdate=July 8, 2009
+}}&lt;/ref&gt; The difficult years of the [[Great Depression]] saw the election of reformer [[Fiorello H. LaGuardia|Fiorello LaGuardia]] as mayor and the fall of [[Tammany Hall]] after eighty years of political dominance.&lt;ref&gt;
+{{Cite book
+  |title=The Tiger&amp;nbsp;– The Rise and Fall of Tammany Hall
+  |author=Allen, Oliver E.
+  |publisher=Addison-Wesley Publishing Company
+  |accessdate=May 25, 2007
+  |chapter=Chapter 9: The Decline
+  |year=1993
+  |isbn=020162463X
+}}&lt;/ref&gt;
+
+Returning [[World War II]] veterans created a postwar economic boom and the development of large housing tracts in eastern Queens. New York emerged from the war unscathed as the leading city of the world, with Wall Street leading America's place as the world's dominant economic power. The [[United Nations Headquarters]] (completed in 1950) emphasized New York's political influence, and the rise of [[abstract expressionism]] in the city precipitated New York's displacement of Paris as the center of the art world.&lt;ref&gt;
+{{cite web|title=The Center of the World&amp;nbsp;– New York: A Documentary Film (Transcript)
+  |author=Burns, Ric
+  |publisher=PBS
+  |url=http://www.pbs.org/wgbh/amex/newyork/filmmore/pt.html
+ |accessdate=September 1, 2008
+  |date=August 22, 2003
+}}&lt;/ref&gt;
+[[File:Stonewall Inn New York 002.JPG|thumb|The [[Stonewall Inn]] in [[Greenwich Village]], a designated [[National Historic Landmark]] as the site of the 1969 [[Stonewall Rebellion]].&lt;ref&gt;{{cite web|url=http://www.nps.gov/diversity/stonewall.htm|title=Workforce Diversity The Stonewall Inn, National Historic Landmark National Register Number: 99000562|publisher=National Park Service, U.S. Department of the Interior|accessdate=May 1, 2011}}&lt;/ref&gt;]]
+[[File:UA Flight 175 hits WTC south tower 9-11 edit.jpeg|160px|thumb|left|United Airlines Flight 175 hits the South Tower of the former [[World Trade Center]] on September 11, 2001.]]
+In the 1960s, New York City began to suffer from economic problems and rising crime rates. While a resurgence in the financial industry greatly improved the city's economic health in the 1980s, New York's crime rate continued a steep uphill climb through the decade and into the beginning of the 1990s.&lt;ref&gt;{{cite web|author=Christopher Effgen |url=http://www.disastercenter.com/crime/nycrime.htm |title=New York Crime Rates 1960–2009 |publisher=Disastercenter.com |date=September 11, 2001 |accessdate=October 28, 2010}}&lt;/ref&gt; By the 1990s, crime rates started to drop dramatically due to increased police presence and [[gentrification]], and many American transplants and waves of new immigrants arrived from Asia and Latin America. Important new sectors, such as [[Silicon Alley]], emerged in the city's economy and New York's population reached an all-time high in the [[United States Census, 2000|2000 census]].
+
+The city was one of the sites of the [[September 11, 2001 attacks]], when nearly 3,000 people died in the destruction of the [[World Trade Center]].&lt;ref&gt;
+{{Cite news
+  |url=http://www.nysun.com/new-york/missing-doctor-added-to-list-of-9-11-victims/81626/
+  |title=2008 9/11 Death Toll
+  |date=July 2008
+  |agency=Associated Press
+  |accessdate=September 11, 2006
+}}&lt;/ref&gt; A new [[One World Trade Center]], a [[World Trade Center Memorial]], and three other office towers are being built on the site and are scheduled for completion by 2014. The new [[World Trade Center site]] skyscrapers, memorial, and a new transportation hub that are under construction at the site will bring about a more modern Lower Manhattan and restore the skyline of New York City.&lt;ref name=&quot;nypost-ap1&quot;&gt;
+{{Cite news
+ |title = Report: WTC Faces Up To 3-Year Delay
+ |url = http://www.nypost.com/seven/06302008/news/regionalnews/report__wtc_faces_up_to_3_year_delay_117912.htm
+ |work=Associated Press via ''[[New York Post]]''.
+ |location = New York, New York
+ |date = June 30, 2008
+ |accessdate =July 5, 2008
+ |deadurl=yes
+}} {{Dead link|date=August 2010|bot=RjwilmsiBot}}&lt;/ref&gt;
+
+==Geography==
+{{Main|Geography of New York City|Geography of New York Harbor}}
+[[File:Aster newyorkcity lrg.jpg|thumb|left|upright|[[Satellite imagery]] demonstrating the core of the [[New York City Metropolitan Area]].]]
+
+New York City is located in the Northeastern United States, in southeastern [[New York State]], approximately halfway between Washington, D.C. and [[Boston]].&lt;ref&gt;Washington, DC is {{convert|228|mi|km}} driving distance from New York, and Boston is {{convert|217|mi|km}} driving distance from New York.&amp;nbsp;– [http://maps.google.com/ Google Maps]&lt;/ref&gt; The location at the mouth of the [[Hudson River]], which feeds into a naturally sheltered harbor and then into the Atlantic Ocean, has helped the city grow in significance as a trading city. Much of New York is built on the three islands of Manhattan, Staten Island, and Long Island, making land scarce and encouraging a high population density.
+
+The Hudson River flows through the [[Hudson Valley]] into [[New York Bay]]. Between New York City and [[Troy, New York]], the river is an [[estuary]].&lt;ref&gt;{{cite web|url=http://life.bio.sunysb.edu/marinebio/fc.1.estuaries.html |title=Information about the Hudson River estuary |publisher=Life.bio.sunysb.edu |date= |accessdate=2011-08-20}}&lt;/ref&gt; The Hudson separates the city from [[New Jersey]]. The [[East River]]&amp;nbsp;– a tidal strait&amp;nbsp;– flows from [[Long Island Sound]] and separates the Bronx and Manhattan from Long Island. The [[Harlem River]], another tidal strait between the East and Hudson Rivers, separates most of Manhattan from the Bronx. The [[Bronx River]], which flows through the Bronx and [[Westchester County]], is the only entirely [[fresh water]] river in the city.&lt;ref name=nytimes&gt;
+{{Cite news
+  |first=Joseph |last=Berger
+  |title= Reclaimed Jewel Whose Attraction Can Be Perilous
+  |url=http://www.nytimes.com/2010/07/20/nyregion/20river.html?ref=nyregion
+  |work=New York Times
+  |date=July 19, 2010
+  |accessdate=July 21, 2010
+}}&lt;/ref&gt;
+
+The city's land has been altered substantially by human intervention, with considerable [[land reclamation]] along the waterfronts since Dutch colonial times. Reclamation is most prominent in [[Lower Manhattan]], with developments such as [[Battery Park City, Manhattan|Battery Park City]] in the 1970s and 1980s.&lt;ref name=&quot;gillespie-p71&quot;&gt;{{Cite book
+  |author=Gillespie, Angus K.
+  |year=1999
+  |title=Twin Towers: The Life of New York City's World Trade Center
+  |publisher=Rutgers University Press
+  |page=71
+  |isbn=0783897855}}&lt;/ref&gt; Some of the natural variations in topography have been evened out, especially in Manhattan.&lt;ref&gt;{{Cite book
+  |author=Lopate , Phillip
+  |title=Waterfront: A Walk Around Manhattan
+  |publisher=Anchor Press
+  |year=2004
+  |isbn=0385497148}}&lt;/ref&gt;
+
+The city's total area is {{convert|468.9|sqmi|km2}}. {{convert|164.1|sqmi|km2}} of this are water and {{convert|304.8|sqmi|km2}} is land.&lt;ref name=&quot;NYC Land Estimate&quot; /&gt;&lt;ref name=&quot;NYT Land Estimate&quot; /&gt; The highest point in the city is [[Todt Hill]] on Staten Island, which, at {{convert|409.8|ft}} [[Above mean sea level|above sea level]], is the highest point on the Eastern Seaboard south of [[Maine]].&lt;ref&gt;{{Cite book
+  |title=Staten Island: Isle of the Bay, NY
+  |author=Lundrigan, Margaret
+  |publisher=Arcadia Publishing
+  |year=2004
+  |isbn=0738524433
+  |page=10}}&lt;/ref&gt; The summit of the ridge is mostly covered in woodlands as part of the [[Staten Island Greenbelt]].&lt;ref&gt;{{Cite book
+  |title=Outside Magazine's Urban Adventure New York City
+  |author=Howard, David
+  |publisher=W. W. Norton &amp; Company
+  |year=2002
+  |isbn=0393322122
+  |page=35}}&lt;/ref&gt;
+
+===Climate===
+Under the [[Köppen climate classification]] New York City has a [[humid subtropical climate]] (''Cfa''), and using the {{convert|0|°C|0|abbr=on}} threshold it is the northernmost major city on the continent with such categorization.
+
+The area averages 234 days with at least some sunshine annually, and averages 58% of possible sunshine annually,&lt;ref name=ASU&gt;
+{{cite web
+  |url=http://www.public.asu.edu/~atrsc/wxpart4.htm#sun1
+  |title=WXPART4
+  |publisher=Public.asu.edu
+  |accessdate=September 25, 2010
+}}&lt;/ref&gt; accumulating 2,400 to 2,800 hours of sunshine per annum.&lt;ref&gt;{{cite web|url=http://maps.howstuffworks.com/united-states-annual-sunshine-map.htm|title=united states annual sunshine map|publisher=HowStuffWorks, Inc|accessdate=March 19, 2011}}&lt;/ref&gt;
+
+Winters are cold and damp, and prevailing wind patterns that blow offshore minimize the moderating effects of the Atlantic Ocean. Yet the Atlantic and the partial shielding of the [[Appalachians]] keep the city warmer in the winter than inland North American cities located at similar or lesser latitudes such as [[Pittsburgh]], [[Cincinnati]], and [[Indianapolis]]. The average temperature in January, the area's coldest month, is {{convert|32.1|°F|1}}. However temperatures in winter could for a few days be as low as {{convert|10|°F|0}} and as high as {{convert|50|°F}}.&lt;ref name=&quot;NYC climate&quot;&gt;{{cite web
+  |title=The Climate of New York
+  |publisher=New York State Climate Office
+  |url=http://nysc.eas.cornell.edu/climate_of_ny.html
+  |accessdate=September 1, 2008}}&lt;/ref&gt; Spring and autumn are unpredictable, and can range from chilly to warm, although they are usually mild with low humidity. Summers are typically hot and humid with a July average of {{convert|76.5|°F|1}}. Nighttime conditions are often exacerbated by the [[urban heat island]] phenomenon, and temperatures exceed {{convert|90|°F|0}} on average of 18 days each summer and can exceed {{convert|100|°F|0}} every 4–6 years.&lt;ref name = NCDC /&gt;&lt;ref name= Weatherbase &gt;{{cite web
+  |title=Weatherbase
+  |publisher=New York State Climate Office
+  |url=http://www.weatherbase.com/weather/weatherall.php3?s=330527&amp;refer=&amp;units=us
+  |accessdate=November 11, 2008}}&lt;/ref&gt;
+
+The city receives {{convert|49.7|in|sigfig=3}} of precipitation annually, which is fairly spread throughout the year.
+Average winter snowfall for 1971 to 2000 has been {{convert|22.4|in|cm|0}}, but this usually varies considerably from year to year.&lt;ref name= Weatherbase /&gt; Hurricanes and tropical storms are rare in the New York area, but are not unheard of and always have the potential to strike the area.
+
+Extreme temperatures have ranged from {{convert|−15|to|106|°F|°C|0}}, recorded on February 9, 1934 and July 9, 1936, respectively.&lt;ref&gt;Monthly Weather Averages and Records for New York, NY http://www.weather.com/outlook/travel/vacationplanner/vacationclimatology/monthly/USNY0996&lt;/ref&gt;
+{{New York City weatherbox}}
+
+==Cityscape==
+{{Panorama
+ | image      = File:Panorama Skyline Manhattan Empire State Building.jpg
+ | caption    = &lt;center&gt;[[Midtown Manhattan]] during the day
+ | height     = 230
+}}
+{{Panorama
+ | image      = File:New York Midtown Skyline at night - Jan 2006 edit1.jpg
+ | caption    = &lt;center&gt;[[Midtown Manhattan]] at night
+ | height     = 250
+}}
+{{Panorama
+ | image      = File:Lower Manhattan from Staten Island Ferry Corrected Jan 2006.jpg
+ | caption    = &lt;center&gt;[[Lower Manhattan]] during the day
+ | height     = 180
+}}
+{{Panorama
+ | image      = File:Lower Manhattan Skyline at night from the Jersey side August 2009.jpg
+ | caption    = &lt;center&gt;[[Lower Manhattan]] at night
+ | height     = 240
+}}
+
+===Architecture===
+{{See|Architecture of New York City|List of tallest buildings in New York City}}
+[[File:Harlem 02.jpg|left|thumb|150px|[[Brownstone]] row houses in [[Harlem]]]]
+[[File:Manhattan at Dusk by slonecker.jpg|thumb|right|The [[Empire State Building]] and [[Chrysler Building]], built in [[Art Deco]] style.]]
+[[File:NewYorkSeagram 04.30.2008.JPG|right|thumb|The [[Seagram Building]] (1957) is a prominent example of the [[international style]] used in architecture]]
+
+Manhattan's skyline with its many skyscrapers is universally recognized, and the city has been home to several of the [[Skyscraper#History of tallest skyscrapers|tallest buildings in the world]]. As of 2011, New York City had 5,937 high-rise buildings, of which 550 completed structures were at least 100 meters high, both second in the world after [[Hong Kong]],&lt;ref&gt;
+{{cite web
+  |url=http://www.emporis.com/application/?nav=skylineranking&amp;lng=3  |title=Emporis Skyline Ranking  |publisher=© 2000 - 2011 Emporis Corporation. All rights reserved  |accessdate=2011-10-23
+}}&lt;/ref&gt; &lt;ref&gt;{{cite web
+  |url=http://www.emporis.com/application/?nav=skyline_ranking  |title=Emporis Skyline Ranking
+  |publisher=© 2000 - 2011 Emporis Corporation. All rights reserved
+  |accessdate=2011-10-23}}
+&lt;/ref&gt; with over 50 completed [[List of tallest buildings in New York City|skyscrapers taller than 656 feet (200 m)]].
+
+New York has architecturally noteworthy buildings in a wide range of styles and from distinct time periods. These include the [[Woolworth Building]] (1913), an early [[Gothic Revival architecture|gothic revival]] skyscraper built with massively scaled gothic detailing. The [[1916 Zoning Resolution]] required [[setback (architecture)|setback]] in new buildings, and restricted towers to a percentage of the lot size, to allow sunlight to reach the streets below.&lt;ref&gt;{{Cite journal|title=The Metropolitan Dimension of Early Zoning: Revisiting the 1916 New York City Ordinance |author=Fischler, Raphael |journal=[[Journal of the American Planning Association]] |volume=64 |year=1998 | issue=2}}&lt;/ref&gt;
+
+The [[Art Deco]] style of the [[Chrysler Building]] (1930) and [[Empire State Building]] (1931), with their tapered tops and steel spires, reflected the zoning requirements. The buildings have distinctive ornamentation, such as the eagles at the corners of the 61st floor on the Chrysler Building, and are considered some of the finest examples of the [[Art Deco]] style.&lt;ref&gt;{{cite web|title=Favorites! 100 Experts Pick Their top 10 New York Towers |publisher=The Skyscraper Museum |date=January 22, 2006 |url=http://www.skyscraper.org/EXHIBITIONS/FAVORITES/fav_exhibits.htm# |accessdate=September 1, 2008}}&lt;/ref&gt;
+
+A highly influential example of the [[international style (architecture)|international style]] in the United States is the [[Seagram Building]] (1957), distinctive for its façade using visible bronze-toned I-beams to evoke the building's structure. The [[Condé Nast Building]] (2000) is an prominent example of [[Sustainable design|green design]] in American skyscrapers.&lt;ref name=&quot;greenbuilding&quot; /&gt;
+
+New York's large residential districts are often defined by the classic [[brownstone]] [[Terraced house|rowhouses]], [[townhouse]]s, and [[Apartment building|tenements]] that were built during a period of rapid growth from 1870 to 1930.&lt;ref&gt;{{Cite book|title=History of Housing in New York City: Dwelling Type and Change in the American Metropolis |author=Plunz, Richar A. |chapter=Chapters 3 [Rich and Poor] &amp; 4 [Beyond the Tenement] |year=1990 |publisher=Columbia University Press |isbn=0231062974}}&lt;/ref&gt; Stone and brick became the city's building materials of choice after the construction of wood-frame houses was limited in the aftermath of the [[Great Fire of New York|Great Fire of 1835]].&lt;ref name=&quot;lankevich-p82&quot;&gt;Lankevich (1998), pp. 82–83; {{Cite book|title=New York: Old &amp; New: Its Story, Streets, and Landmarks |author=Wilson, Rufus Rockwell |year=1902 |publisher=J.B. Lippincott |page=354}}&lt;/ref&gt;
+
+A distinctive feature of many of the city's buildings is the wooden roof-mounted [[water tower]]s. In the 1800s, the city required their installation on buildings higher than six stories to prevent the need for excessively high water pressures at lower elevations, which could break municipal water pipes.&lt;ref&gt;{{cite web|title=Wondering About Water Towers |author=Elliot, Debbie |publisher=National Public Radio |date=December 2, 2006 |url=http://www.npr.org/templates/story/story.php?storyId=6567297 |accessdate=September 1, 2008}}&lt;/ref&gt;
+
+[[Garden city movement|Garden apartments]] became popular during the 1920s in outlying areas, including [[Jackson Heights, Queens|Jackson Heights]] in Queens.&lt;ref&gt;{{Cite book|title=722 Miles: The Building of the Subways and how They Transformed New York |author=Hood, Clifton |publisher=Johns Hopkins University Press |year=2004 |pages=175–177 |isbn=0801852447}}&lt;/ref&gt;
+
+===Parks===
+{{Main|Parks and recreation in New York City}}
+[[File:Manhattan from helicopter edit1.jpg|thumb|The [[Statue of Liberty National Monument]], in [[New York Harbor]], with the former Twin Towers of the [[World Trade Center]] in the background.]]
+New York City has over {{convert|28000|acre|km2}} of municipal parkland and {{convert|14|mi|km}} of public beaches.&lt;ref&gt;{{cite web|url=http://www.nyc.gov/html/om/html/99a/pr042-99.html |title=Mayor Giuliani Announces Amount of Parkland in New York City has Passed 28,000-acre Mark |date=February 3, 1999 |publisher=New York City Mayor's Office |accessdate=September 1, 2008}}; {{cite web|url=http://www.nycgovparks.org/facilities/beaches |title=Beaches |publisher=New York City Department of Parks &amp; Recreation |accessdate=September 1, 2008}}&lt;/ref&gt; This parkland complements tens of thousands of acres of federal and state parkland.
+
+====National Park System====
+[[Gateway National Recreation Area]] is over {{convert|26000|acres|2|abbr=on|lk=out}} in total, most of it surrounded by New York City; the New York State portion includes the [[Jamaica Bay Wildlife Refuge]] in Brooklyn and Queens, over {{convert|9000|acre|km2}} of [[salt marsh]], islands and water that includes most of [[Jamaica Bay]]. Also in Queens the park includes a significant portion of the western [[Rockaway Peninsula]], most notably [[Jacob Riis Park]] and [[Fort Tilden]]. [[Fort Wadsworth]] in Staten Island with historic pre-Civil war era [[Battery Weed]] and [[Fort Tompkins Quadrangle|Fort Tompkins]], and Great Kills Park with beaches, trails and marina also on Staten Island.
+
+The [[Statue of Liberty National Monument|Statue of Liberty National Monument and Ellis Island Immigration Museum]] are managed by the [[National Park Service]] and are located both in the states of New York and [[New Jersey]]. They are joined in the harbor by [[Governors Island National Monument]], located in New York. Historic sites under federal management on Manhattan Island include [[Castle Clinton National Monument]]; [[Federal Hall National Memorial]]; [[Theodore Roosevelt Birthplace National Historic Site]]; [[General Grant National Memorial]] (&quot;Grant's Tomb&quot;); [[African Burial Ground National Monument]]; [[Hamilton Grange National Memorial]]; and the [[Stonewall Inn]] in [[Greenwich Village]] is a designated [[National Historic Landmark]] as the catalyst of the modern [[gay rights movement]].&lt;ref&gt;{{cite web|url=http://www.nps.gov/diversity/stonewall.htm|title=Workforce Diversity The Stonewall Inn, National Historic Landmark National Register Number: 99000562|publisher=National Park Service, U.S. Department of the Interior|accessdate=April 30, 2011}}&lt;/ref&gt;
+
+====New York State Parks====
+There are seven state parks within the confines of New York City, including [[Clay Pit Ponds State Park]], a natural area which includes extensive riding trails, and [[Riverbank State Park]], a {{convert|28|acre|m2|adj=on}} facility that rises {{convert|69|ft|m}} over the Hudson River.&lt;ref&gt;{{cite web|url=http://www.nysparks.state.ny.us/parks/93/details.aspx |title=New York State Office of Parks, Recreation and Historic Preservation, New York City Region |publisher=Nysparks.state.ny.us |accessdate=October 28, 2010}}&lt;/ref&gt;
+
+====New York City Department of Parks and Recreation====
+* [[Central Park]] an {{convert|883|acre|km2|adj=on}} park in Manhattan, is the most visited city park in the United States, with 25 million visitors each year.&lt;ref name = &quot;TPL.org-CFCPE&quot;&gt;{{cite web|title=City Park Facts |publisher=The Trust for Public Land, Center for City Park Excellence |month=June|year=2006 |url=http://www.tpl.org/tier3_cd.cfm?content_item_id=20531&amp;folder_id=3208 |accessdate=September 1, 2008}}{{dead link|date=August 2011}}&lt;/ref&gt;  The park contains a myriad of attractions; there are several lakes and ponds, two ice-skating rinks, the [[Central Park Zoo]], the [[Central Park Conservatory Garden]], the {{convert|106|acre|km2|adj=on}} Jackie Onasis Reservoir. Indoor attractions include [[Belvedere Castle]] with its nature center, the [[Swedish Cottage Marionette Theatre]], and the historic Carousel.
+
+* [[Prospect Park (Brooklyn)|Prospect Park]] in Brooklyn has a {{convert|90|acre|m2|adj=on}} meadow, a lake and extensive woodlands. Located within the park is the historic Battle Pass, which figured prominently in the Battle of Long Island.&lt;ref&gt;{{cite web|url=http://www.prospectpark.org/visit |title=General Information |publisher=Prospect Park Alliance |accessdate=September 1, 2008}}&lt;/ref&gt;
+
+* [[Flushing Meadows–Corona Park]] in Queens, the city's third largest park, was the setting for the [[1939 New York World's Fair|1939 World's Fair]] and the [[1964 New York World's Fair|1964 World's Fair]].
+
+* Over a fifth of the Bronx's area, {{convert|7000|acre|km2}}, is given over to open space and parks, including [[Van Cortlandt Park]], [[Pelham Bay Park]], the [[Bronx Zoo]], and the [[New York Botanical Gardens]].&lt;ref&gt;[http://news.yahoo.com/s/ap_travel/20080630/ap_tr_ge/travel_trip_wild_green_bronx Ladies and gentlemen, the Bronx is blooming!] by Beth J. Harpaz, Travel Editor of [[The Associated Press]] (AP), June 30, 2008, retrieved on July 11, 2008&lt;/ref&gt;
+
+* In Staten Island, the [[Conference House Park]] contains the historic [[Conference House]], site of the only attempt of a peaceful resolution to the American Revolution, attended by [[Benjamin Franklin]] representing the Americans and [[Lord Howe]] representing the [[British Crown]]. Located within the park is the historic [[Burial Ridge]], the largest Native American burial ground within New York City.
+{{wide image|26 - New York - Octobre 2008.jpg|900px|&lt;center&gt;[[Central Park]] is the most visited [[city park]] in the United States.&lt;/center&gt;}}
+
+===Boroughs===
+{{See|Borough (New York City)|Neighborhoods in New York City}}
+{{NYC boroughs}}
+[[File:5 Boroughs Labels New York City Map Julius Schorzman.png|right|290px|thumb|The Five Boroughs of New York City: '''[[Manhattan|&lt;font color=&quot;navy&quot;&gt;1:&amp;nbsp;Manhattan&lt;/font&gt;''']] '''[[Brooklyn|&lt;font color=&quot;DDAA00&quot;&gt;2:&amp;nbsp;Brooklyn &lt;/font&gt;''']] '''[[Queens|&lt;font color=&quot;coral&quot;&gt;3:&amp;nbsp;Queens&lt;/font&gt;''']] '''[[Bronx|&lt;font color=&quot;red&quot;&gt;4:&amp;nbsp;The Bronx&lt;/font&gt;''']] '''[[Staten Island|&lt;font color=&quot;purple&quot;&gt;5:&amp;nbsp;Staten Island&lt;/font&gt;''']]]]
+
+New York City is composed of five [[Borough (New York City)|boroughs]].&lt;ref&gt;{{Cite book|title=Regionalism and realism: A Study of Government in the New York Metropolitan Area |author=Benjamin, Gerald, Richard P. Nathan |year=1990 |publisher=[[Brookings Institute]] |page=59}}&lt;/ref&gt; Each borough is coextensive with a respective [[county (US)|county]] of [[New York|New York State]] as shown below. Throughout the boroughs there are [[:Category:Neighborhoods in New York City|hundreds of distinct neighborhoods]], many with a definable history and character to call their own. If the boroughs were each independent cities, four of the boroughs (Brooklyn, Queens, Manhattan, and the Bronx) would be among the ten most populous cities in the United States.
+
+*'''[[Manhattan]]''' (New York County; 2009 Est. Pop.: 1,629,054)&lt;ref name=&quot;2009 est pop&quot;&gt;[[United States Census Bureau|U.S. Census Bureau]], Population Division, [http://www.census.gov/popest/cities/tables/SUB-EST2009-05-36.xls Table 5. Annual Estimates of the Resident Population for Minor Civil Divisions in New York, Listed Alphabetically Within County: April 1, 2000 to July 1, 2009 (SUB-EST2009-05-36)] and [http://www.census.gov/popest/cities/SUB-EST2009.html Table 1. Annual Estimates of the Resident Population for Incorporated Places Over 100,000, Ranked by July 1, 2009 Population: April 1, 2000 to July 1, 2009 (SUB-EST2009-01)], Release Date: June 2010, retrieved on July 31, 2010&lt;/ref&gt; is the most densely populated borough and is home to [[Central Park]] and most of the city's skyscrapers. The borough is the financial center of the city and contains the headquarters of many major corporations, the UN, a number of important universities, and many cultural attractions. Manhattan is loosely divided into [[Lower Manhattan|Lower]], [[Midtown Manhattan|Midtown]], and [[Upper Manhattan|Uptown]] regions. Uptown Manhattan is divided by Central Park into the [[Upper East Side]] and the [[Upper West Side]], and above the park is [[Harlem]].
+
+*'''[[The Bronx]]''' (Bronx County: Pop. 1,397,287)&lt;ref name=&quot;2009 est pop&quot;/&gt; is New York City's northernmost borough, the location of [[Yankee Stadium]], home of the [[New York Yankees]], and home to the largest [[housing cooperative|cooperatively owned housing]] complex in the United States, [[Co-op City, Bronx|Co-op City]].&lt;ref&gt;{{Cite news|author=Frazier, Ian |title=Utopia, the Bronx |work=The New Yorker |date=June 26, 2006 |url=http://www.newyorker.com/archive/2006/06/26/060626fa_fact_frazier |accessdate=September 1, 2008}}&lt;/ref&gt; Except for a small section of Manhattan known as [[Marble Hill, Manhattan|Marble Hill]], the Bronx is the only section of the city that is part of the United States mainland. It is home to the [[Bronx Zoo]], the largest metropolitan zoo in the United States, which spans {{convert|265|acre|km2}} and is home to over 6,000 animals.&lt;ref&gt;{{Cite book|title=New York City Museum Guide |author=Ward, Candace |publisher=Dover Publications |year=2000 |isbn=0486410005 |page=72}}&lt;/ref&gt; The Bronx is the birthplace of [[Rapping|rap]] and [[hip hop culture]].&lt;ref name = &quot;Toop-RapAttack2&quot;/&gt;
+
+*'''[[Brooklyn]]''' (Kings County: Pop. 2,567,098),&lt;ref name=&quot;2009 est pop&quot;/&gt; on the western tip of [[Long Island]], is the city's most populous borough and was an independent city until 1898. Brooklyn is known for its cultural, social and ethnic diversity, an independent art scene, [[List of Brooklyn neighborhoods|distinct neighborhoods]] and a distinctive architectural heritage. It is also the only borough outside of Manhattan with a distinct downtown neighborhood. The borough features a long beachfront and [[Coney Island]], established in the 1870s as one of the earliest amusement grounds in the country.&lt;ref&gt;{{Cite book|title=Coney Island: The People's Playground |author=Immerso, Michael |publisher=Rutgers University Press |year=2002 |page=3 |isbn=0813531381}}&lt;/ref&gt;
+
+*'''[[Queens]]''' (Queens County: Pop. 2,306,712)&lt;ref name=&quot;2009 est pop&quot;/&gt; is geographically the largest borough and the most ethnically diverse county in the United States,&lt;ref name=&quot;queensdiverse&quot;&gt;{{Cite news|url=http://www.nytimes.com/2006/07/04/nyregion/04fourth.html |author=O'Donnell, Michelle |title=In Queens, It's the Glorious 4th, and 6th, and 16th, and 25th... |work=New York Times|date=July 4, 2006 |accessdate=September 1, 2008}}&lt;/ref&gt; and may overtake Brooklyn as the city's most populous borough due to its growth. Historically a collection of small towns and villages founded by the Dutch, today the borough is predominantly residential and middle class. Queens County is the only large county in the United States where the median income among African Americans, approximately $52,000 a year, is higher than that of [[White American]]s.&lt;ref&gt;{{Cite news|title=Black Incomes Surpass Whites in Queens |author=Roberts, Sam |work=The New York Times |date=January 10, 2006 |url=http://www.nytimes.com/2006/10/01/nyregion/01census.html?ref=nyregion |accessdate=September 1, 2008}}&lt;/ref&gt; Queens is the site of [[Citi Field]], the home of the [[New York Mets]], and annually hosts the [[US Open (tennis)|U.S. Open tennis tournament]]. Additionally, it is home to two of the three major airports serving the [[New York metropolitan area]], [[LaGuardia Airport]] and [[John F. Kennedy International Airport]]. (The third is [[Newark Liberty International Airport]] in [[Newark, New Jersey|Newark]], New Jersey.)
+
+*'''[[Staten Island]]''' (Richmond County: Pop. 491,730)&lt;ref name=&quot;2009 est pop&quot;/&gt; is the most suburban in character of the five boroughs. Staten Island is connected to Brooklyn by the [[Verrazano-Narrows Bridge]] and to Manhattan by way of the free [[Staten Island Ferry]]. The Staten Island Ferry is one of the most popular tourist attractions in New York City as it provides unsurpassed views of the [[Statue of Liberty]], [[Ellis Island]], and lower Manhattan. Located in central Staten Island, the {{convert|2500|acres|km2|abbr=on}} Greenbelt has some {{convert|28|mi|km}} of walking trails and one of the last undisturbed forests in the city.&lt;ref&gt;{{cite web|url=http://www.nynjtc.org/park/staten-island-greenbelt |title=Staten Island Greenbelt &amp;#124; New York-New Jersey Trail Conference |publisher=Nynjtc.org |accessdate=October 28, 2010}}&lt;/ref&gt; Designated in 1984 to protect the island's natural lands, the Greenbelt comprises seven city parks.
+
+==Culture and contemporary life==
+{{See|Culture of New York City|List of people from New York City}}
+[[File:Metropolitan museum of art 2.jpg|thumb|The [[Metropolitan Museum of Art]] is one of the largest museums in the world.]]
+{{cquote|Culture just seems to be in the air, like part of the weather
+|4=[[Tom Wolfe]]&lt;ref&gt;{{cite press release |title=Speeches: Tom Christopher Exhibit Opening |publisher=Consulate General of the United States: Frankfurt, Germany |date=May 9, 2007 |url=http://frankfurt.usconsulate.gov/frankfurt/speech05092007b.html |archiveurl=http://web.archive.org/web/20070723115555/http://frankfurt.usconsulate.gov/frankfurt/speech05092007.html |archivedate=July 23, 2007 |accessdate=September 1, 2008}}&lt;/ref&gt;}}
+
+Numerous major American cultural movements began in the city, such as the [[Harlem Renaissance]], which established the African-American literary canon in the United States.
+
+The city was a center of [[jazz]] in the 1940s, [[abstract expressionism]] in the 1950s and the birthplace of [[hip hop culture|hip hop]] in the 1970s. The city's [[punk subculture|punk]] and [[hardcore punk|hardcore]] scenes were influential in the 1970s and 1980s, and the city has long had a flourishing scene for [[Jewish American literature]].
+
+The city prominently excels in its spheres of art, cuisine, dance, music, opera, theater, independent film, fashion, museums, and literature. The city is the birthplace of many cultural movements, including the [[Harlem Renaissance]] in literature and visual art; [[abstract expressionism]] (also known as the [[New York School]]) in painting; and [[hip hop music|hip hop]],&lt;ref name = &quot;Toop-RapAttack2&quot;&gt;{{Cite book|first=David |last=Toop |title=Rap Attack 2: African Rap to Global Hip Hop|publisher=Serpents Tail |year=1992 |isbn=1852422432}}&lt;/ref&gt; [[punk rock|punk]],&lt;ref&gt;{{cite web|url=http://www.scaruffi.com/politics/american.html |accessdate=September 1, 2008 |title=A timeline of the USA |first=Piero |last=Scaruffi}}&lt;/ref&gt; [[salsa music|salsa]], [[disco]], [[Freestyle music|freestyle]], and [[Tin Pan Alley]] in music. New York City has been considered the dance capital of the world.&lt;ref&gt;{{cite web|url=http://dictionary.reference.com/browse/capital|title=capital|publisher=Dictionary.com, LLC. Copyright © 2011. All rights reserved|accessdate=2011-07-10}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.pbs.org/wnet/freetodance/about/episodes.html|title=Free To Dance - About The Film|publisher=Copyright© 1995–2011 Public Broadcasting Service (PBS). All rights reserved|accessdate=2011-07-10}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.alvinailey.org/about/visit-us/group-visits|title=Group Visits|publisher=Copyright © 2011 Alvin Ailey Dance Foundation, Inc. All rights reserved|accessdate=2011-07-10}}&lt;/ref&gt; The city is also widely celebrated in popular lore, featured frequently as the setting for books, movies (see [[New York in film]]), and television programs.
+
+===Entertainment and performing arts===
+{{See also|Music of New York City}}
+[[File:Lincoln Center Twilight.jpg|thumb|left|&lt;center&gt;[[Lincoln Center for the Performing Arts]]]]
+The city is also prominent in the American film industry. ''[[Manhatta]]'' (1920), an early [[avant-garde]] film, was filmed in the city.&lt;ref&gt;{{cite video |people=Bruce Posner |title=Picturing a Metropolis: New York City Unveiled |medium=DVD |publisher=Unseen Cinema |date=2005}}&lt;/ref&gt;
+
+Today, New York City is the second largest center for the film industry in the United States. The city has more than 2,000 arts and cultural organizations and more than 500 art galleries of all sizes.&lt;ref name=&quot;NYC arts&quot;&gt;{{cite web|title=Creative New York |publisher=Center for an Urban Future |month=December|year=2005 |url=http://www.nycfuture.org/images_pdfs/pdfs/CREATIVE_NEW_YORK.pdf |format=PDF |accessdate=September 1, 2008}}&lt;/ref&gt;
+
+The city government funds the arts with a larger annual budget than the [[National Endowment for the Arts]].&lt;ref name=&quot;NYC arts&quot; /&gt; Wealthy industrialists in the 19th century built a network of major cultural institutions, such as the famed [[Carnegie Hall]] and [[Metropolitan Museum of Art]], that would become internationally established.
+
+The advent of electric lighting led to elaborate theater productions, and in the 1880s New York City theaters on [[Broadway (New York City)|Broadway]] and along 42nd Street began featuring a new stage form that became known as the [[musical theatre|Broadway musical]]. Strongly influenced by the city's immigrants, productions such as those of [[Edward Harrigan|Harrigan and Hart]], [[George M. Cohan]] and others used song in narratives that often reflected themes of hope and ambition. Today these productions are a staple of the New York theater scene.
+
+The city's 39 largest theaters (with more than 500 seats each) are collectively known as &quot;[[Broadway theater|Broadway]],&quot; after the [[Broadway (New York City)|major thoroughfare]] that crosses the [[Times Square]] theater district.&lt;ref&gt;{{Cite news|url=http://www.signonsandiego.com/news/features/20040606-9999-1a6tony.html |title=2 plays + 9 nominations=good odds for locals |publisher=San Diego Union-Tribune |author=Welsh, Anne Marie |date=June 6, 2004 |accessdate=September 1, 2008}}&lt;/ref&gt;  This area is sometimes referred to as The Main Stem, [[The Great White Way]] or [[Rialto, Manhattan#Rialto.2C_Manhattan|The Rialto]].
+
+Lincoln Center for the Performing Arts is home to 12 influential arts organizations, including [[Jazz at Lincoln Center]], [[Metropolitan Opera]], [[New York City Opera]], [[New York Philharmonic]]. [[New York City Ballet]], the [[Vivian Beaumont Theatre]], the [[Juilliard School]] and [[Alice Tully Hall]]. It is the largest performing arts center in the United States.
+
+[[Central Park SummerStage]] presents performances of free plays and music in Central Park.
+
+===Tourism===
+{{See|Tourism in New York City|List of museums and cultural institutions in New York City}}
+
+[[File:New york times square-terabass.jpg|thumb|right|Times Square has the highest annual attendance rate of any tourist attraction in the US.&lt;ref&gt;{{cite web|title=The Crossroads of the World |publisher=PBS |url=http://pbskids.org/bigapplehistory/arts/topic15.html |accessdate=January 30, 2008}}&lt;/ref&gt;]]
+[[Tourism in New York City|Tourism]] is one of New York City's most vital industries, with more than 40 million combined domestic and international tourists visiting each year in the past five years.&lt;ref name=&quot;NYC Statistics&quot;&gt;{{cite web|title=NYC Statistics |publisher=NYC &amp; Company |url=http://www.nycgo.com/?event=view.article&amp;id=78912 |accessdate=August 21, 2010}}&lt;/ref&gt;
+Major destinations include the [[Empire State Building]]; [[Statue of Liberty]]; [[Ellis Island]]; Broadway theater productions; museums such as the [[Metropolitan Museum of Art]]; greenspaces such as Central Park and [[Washington Square Park, New York|Washington Square Park]]; [[Rockefeller Center]]; Times Square; luxury shopping along [[Fifth Avenue (Manhattan)|Fifth]] and [[Madison Avenue (Manhattan)|Madison Avenues]]; and events such as the [[New York's Village Halloween Parade|Halloween Parade]] in [[Greenwich Village]], the [[Macy's Thanksgiving Day Parade]], the [[St. Patrick's Day#New York City|St. Patrick's Day parade]], seasonal activities such as ice skating in Central Park in the wintertime, the [[Tribeca Film Festival]], and free performances in Central Park at Summerstage. Special experiences outside the key tourist areas of the city include, but are not limited to the [[Bronx Zoo]]; [[Coney Island]]; and the [[New York Botanical Garden]].
+
+In 2010, New York City had a record number of tourists with 48.7&amp;nbsp;million.&lt;ref&gt;{{cite news|url=http://articles.cnn.com/2011-01-04/travel/new.york.city.tourism_1_room-rates-hospitality-industry-job-data?_s=PM:TRAVEL |title=New York City draws 48.7&amp;nbsp;million tourists in 2010 |publisher=CNN  |date=January 4, 2011 |accessdate=January 18, 2011}}&lt;/ref&gt; Since the United States economy is still recovering, Mayor [[Michael Bloomberg]]'s goal is to break the record again in 2012 by drawing more than 50 million tourists.&lt;ref&gt;{{cite web|author=Post a Job |url=http://www.businessweek.com/news/2010-01-04/nyc-is-top-2009-u-s-tourist-draw-bloomberg-says-update1-.html |title=NYC Is Top 2009 U.S. Tourist Draw, Bloomberg Says (Update1) |work=BusinessWeek  |date=January 4, 2010 |accessdate=September 25, 2010}}&lt;/ref&gt;
+
+===Media===
+{{Main|Media in New York City}}
+[[File:Rockefeller Center (2006).JPG|thumb|left|[[Rockefeller Center]], home to [[NBC Studios]]]]
+
+New York is a center for the television, advertising, music, newspaper, and book publishing industries and is also the largest media market in North America (followed by Los Angeles, Chicago, and Toronto).&lt;ref&gt;{{cite press release |title=Tampa Bay 12th largest media market now |publisher=Tampa Bay Partnership |date=August 26, 2006 |url=http://www.tampabay.org/press.asp?rls_id=991&amp; |accessdate=September 1, 2008}}&lt;/ref&gt;
+
+Some of the city's media conglomerates include [[Time Warner]], the [[Thomson Reuters Corporation]], the [[News Corporation]], [[The New York Times Company]], [[NBCUniversal]], the [[Hearst Corporation]], and [[Viacom]]. Seven of the world's top eight global [[advertising agency]] networks have their headquarters in New York.&lt;ref&gt;[http://adage.com/datacenter/datapopup.php?article_id=116384 Top 10 Consolidated Agency Networks: Ranked by 2006 Worldwide Network Revenue], ''[[Advertising Age]]'' Agency Report 2007 Index (April 25, 2007). Retrieved on June 8, 2007.&lt;/ref&gt;
+Two of the &quot;[[Music industry|Big Four]]&quot; record labels' headquarters, are in New York City - [[Sony Music Entertainment]] and [[Warner Music Group]]. [[Universal Music Group]] and [[EMI]] also have major offices in New York.
+One-third of all American [[independent film]]s are produced in New York.&lt;ref name=&quot;NYC Media&quot;&gt;{{cite web|title=Request for Expressions of Interest |publisher=The Governors Island Preservation &amp; Education Corporation |year=2005 |url=http://www.govisland.com/PDFs/RFEI/RFEI.pdf |format=PDF |accessdate=September 1, 2008 |archiveurl = http://web.archive.org/web/20080802030053/http://www.govisland.com/PDFs/RFEI/RFEI.pdf |archivedate = August 2, 2008}}&lt;/ref&gt;
+
+More than 200 newspapers and 350 consumer magazines have an office in the city&lt;ref name=&quot;NYC Media&quot; /&gt; and the book-publishing industry employs about 25,000 people.&lt;ref&gt;{{cite web|title=Media and Entertainment |publisher=New York City Economic Development Corporation |url=http://www.nycedc.com/Web/NYCBusinessClimate/IndustryOverviews/MediaEntertainment/MediaEntertainment.htm |archiveurl=http://web.archive.org/web/20080128210353/http://www.nycedc.com/Web/NYCBusinessClimate/IndustryOverviews/MediaEntertainment/MediaEntertainment.htm |archivedate=January 28, 2008 |accessdate=September 1, 2008}}&lt;/ref&gt;
+
+Two of the three national daily newspapers in the United States are New York papers: ''[[The Wall Street Journal]]'' and ''[[The New York Times]]'', which has won the most [[Pulitzer Prize]]s for journalism.
+
+Major tabloid newspapers in the city include:
+''[[Daily News (New York)|The New York Daily News]]'' which was founded in 1919 by [[Joseph Medill Patterson]]&lt;ref&gt;Encyclopedia Britannica:New York Daily Post http://www.britannica.com/EBchecked/topic/412434/New-York-Daily-News&lt;/ref&gt; and ''[[New York Post|The New York Post]]'', founded in 1801 by [[Alexander Hamilton]].&lt;ref&gt;Allan Nevins, ''The Evening Post: Century of Journalism'', Boni and Liveright, 1922, page 17.&lt;/ref&gt;
+
+The city also has a comprehensive ethnic press, with 270 newspapers and magazines published in more than 40 languages.&lt;ref&gt;{{Cite news|title=Ethnic Press Booms In New York City |publisher=Editor &amp; Publisher |date=July 10, 2002 |url=http://www.editorandpublisher.com/eandp/news/article_display.jsp?vnu_content_id=1538594 |accessdate=September 1, 2008}}{{dead link|date=August 2011}}&lt;/ref&gt; ''[[El Diario La Prensa]]'' is New York's largest Spanish-language daily and the oldest in the nation.&lt;ref&gt;{{cite web|url=http://news.newamericamedia.org/news/view_article.html?article_id=e4526a43cc213775795cc84762fce768 |title=el diario/La Prensa: The Nation's Oldest Spanish-Language Daily |date=July 27, 2005 |publisher=New America Media |accessdate=September 1, 2008}}&lt;/ref&gt;
+''[[New York Amsterdam News|The New York Amsterdam News]]'', published in Harlem, is a prominent African American newspaper.
+''[[The Village Voice]]'' is the largest [[alternative newspaper]]
+
+The television industry developed in New York and is a significant employer in the city's economy.
+
+The four major American broadcast networks are all headquartered in New York: [[American Broadcasting Company|ABC]], [[CBS]], [[Fox Broadcasting Company|FOX]], and [[NBC]].
+Many cable channels are based in the city as well, including [[MTV]], [[Fox News Channel|Fox News]], [[HBO]], and [[Comedy Central]].
+
+In 2005, there were more than 100 television shows taped in New York City.&lt;ref&gt;{{cite press release |title=2005 is banner year for production in New York |publisher=The City of New York Mayor's Office of Film, Theater and Broadcasting |date=December 28, 2005 |url=http://www.nyc.gov/html/film/html/news/010106_2005_banner_year.shtml |accessdate=September 1, 2008}}&lt;/ref&gt;
+
+New York is also a major center for [[non-commercial educational]] media. The oldest [[public-access television]] channel in the United States is the [[Manhattan Neighborhood Network]], founded in 1971.&lt;ref&gt;{{cite web|url=http://www.mnn.org/en/community-celebrates-public-access-tvs-35th-annive |title=Community Celebrates Public Access TV's 35th Anniversary |publisher=Mnn.org |accessdate=October 28, 2010}}{{dead link|date=August 2011}}&lt;/ref&gt; [[WNET]] is the city's major public television station and a primary source of national [[Public Broadcasting Service]] (PBS) television programming. [[WNYC]], a [[public radio]] station owned by the city until 1997, has the largest public radio audience in the United States.&lt;ref&gt;{{cite web|publisher=Radio Research Consortium |title=Top 30 Public Radio Subscribers: Spring 2006 Arbitron |date=August 28, 2006 |url=http://www.rrconline.org/reports/pdf/Sp06%20eRanks.pdf |format=PDF |accessdate=September 1, 2008}}&lt;/ref&gt;
+
+The City of New York operates a public broadcast service, [[NYCTV]],&lt;ref&gt;NYCTV Official Home Page http://www.nyc.gov/html/media/html/home/home.shtml&lt;/ref&gt; that has produced several original Emmy Award-winning shows covering music and culture in city neighborhoods and city government.
+
+===Cuisine===
+[[File:NYC-East Harlem-Patsy's Pizzeria-03.jpg|thumb|[[New York-style pizza]] is a popular food throughout the city.]]
+{{Main|Cuisine of New York City}}
+New York's food culture includes a variety of world cuisines influenced by the city's immigrant history.
+
+Eastern European and Italian immigrants have made the city famous for bagels, [[Cheesecake#Latin American|cheesecake]], and [[New York-style pizza]], while [[Chinese restaurant]]s are ubiquitous. Some 4,000 mobile food vendors licensed by the city, many immigrant-owned, have made Middle Eastern foods such as [[falafel]]s and [[kebab]]s standbys of modern New York street food, although hot dogs and pretzels are still the main street fare.&lt;ref&gt;{{Cite news|title=Kebabs on the Night Shift |first=Jennifer |last=Bleyer |work=The New York Times |date=May 14, 2006 |url=http://www.nytimes.com/2006/05/14/nyregion/thecity/14vend.html|accessdate=September 1, 2008}}&lt;/ref&gt;
+
+The city is also home to many of the finest and most diverse [[haute cuisine]] restaurants in the United States.&lt;ref&gt;{{Cite news|title=Michelin Takes on the City, Giving Some a Bad Taste |first=Glenn |last=Collins |work=The New York Times |date=November 3, 2005 |url=http://query.nytimes.com/gst/fullpage.html?res=9C03E0D9163EF930A35752C1A9639C8B63 |accessdate=July 19, 2006}}&lt;/ref&gt;
+
+===Accent===
+The New York area has a distinctive regional speech pattern called the [[New York dialect]], alternatively known as Brooklynese or New Yorkese. It is generally considered one of the most recognizable accents within [[American English]].&lt;ref&gt;{{cite book |last=Newman |first=Michael |year=2005 |chapter=New York Talk |title=American Voices |editor1-first=Walt |editor1-last=Wolfram |editor2-first=Ben |editor2-last=Ward |pages=82–87 |location= |publisher=Blackwell |isbn=1405121092 }}&lt;/ref&gt; The classic version of this dialect is centered on middle and working class people of [[European American]] descent, and the influx of non-European immigrants in recent decades has led to changes in this distinctive dialect.&lt;ref name=NYT19930214/&gt;
+
+The traditional New York area accent is [[rhotic and non-rhotic accents|non-rhotic]], so that the sound {{IPA|[ɹ]}} does not appear at the end of a syllable or immediately before a consonant; hence the pronunciation of the city name as &quot;New Yawk.&quot;&lt;ref name=NYT19930214/&gt; There is no {{IPA|[ɹ]}} in words like ''park'' {{IPA|[pɑək]}} or {{IPA|[pɒək]}} (with vowel backed and diphthongized due to the low-back chain shift), ''butter'' {{IPA|[bʌɾə]}}, or ''here'' {{IPA|[hiə]}}. In another feature called the low back chain shift, the {{IPA|[ɔ]}} vowel sound of words like ''talk'', ''law'', ''cross'', ''chocolate'', and ''coffee'' and the often homophonous {{IPA|[ɔr]}} in ''core'' and ''more'' are tensed and usually raised more than in [[General American]].
+
+In the most old-fashioned and extreme versions of the New York dialect, the vowel sounds of words like &quot;girl&quot; and of words like &quot;oil&quot; become a diphthong {{IPA|[ɜɪ]}}. This is often misperceived by speakers of other accents as a reversal of the ''er'' and ''oy'' sounds, so that ''girl'' is pronounced &quot;goil&quot; and ''oil'' is pronounced &quot;erl&quot;; this leads to the caricature of New Yorkers saying things like &quot;Joizey&quot; (Jersey), &quot;Toidy-Toid Street&quot; (33rd St.) and &quot;terlet&quot; (toilet).&lt;ref name=NYT19930214/&gt; The character [[Archie Bunker]] from the 1970s sitcom ''[[All in the Family]]'' was a good example of a speaker who had this feature. This speech pattern is no longer prevalent.&lt;ref name=NYT19930214&gt;{{cite news |last=Sontag |first=Deborah |url=http://query.nytimes.com/gst/fullpage.html?res=9F0CE0D61438F937A25751C0A965958260 |title=Oy Gevalt! New Yawkese An Endangered Dialect? |newspaper=[[The New York Times]] |date=February 14, 1993 |accessdate=July 8, 2007 }}&lt;/ref&gt;
+
+===Sports===
+{{Main|Sports in New York City}}
+[[File:Yankee Stadium II.JPG|thumb|The new [[Yankee Stadium]], home to the [[New York Yankees]] since 2009.]]
+[[File:Citi Field Home Opener.JPG|thumb|[[Citi Field]] in Queens, home to the [[New York Mets]] since 2009.]]
+
+There have been thirty-five Major League Baseball [[World Series]] won by New York teams.  It is one of only five metro areas (Chicago, Washington-Baltimore, Los Angeles and the San Francisco Bay Area being the others) to have two baseball teams. Additionally, there have been fourteen World Series played exclusively by New York City teams, most recently in {{wsy|2000}}, far more than any other metropolitan area that has had baseball teams in both the [[American League]] and [[National League]].  The city's two current [[Major League Baseball]] teams are the [[New York Yankees]] and the [[New York Mets]], who compete in six games every regular season called the [[Subway Series]]. The Yankees have won a record 27 championships, while the Mets have won the World Series twice. The city also was once home to the [[New York Giants (NL)|New York Giants]] (now the [[San Francisco Giants]]) and the [[Brooklyn Dodgers|Brooklyn Dodgers]] (now the [[Los Angeles Dodgers]]). Both teams moved to California in 1958. There are also two [[minor league baseball]] teams in the city, the [[Staten Island Yankees]] and [[Brooklyn Cyclones]].
+
+The city is represented in the [[National Football League]] by the [[New York Jets]] and [[New York Giants]] (officially the New York Football Giants), although both teams play their home games at [[New Meadowlands Stadium]] in nearby [[East Rutherford, New Jersey]]. The stadium will host [[Super Bowl XLVIII]] in 2014.
+
+[[File:2005 New York City Marathon.jpg|thumb|left|The [[New York City Marathon|New York Marathon]] is the largest marathon in the world.&lt;ref name = &quot;World's Largest Marathons&quot;/&gt;]]
+
+The [[New York Rangers]] represent the city in the [[National Hockey League]]. Within the metropolitan area are two other NHL franchises, the [[New Jersey Devils]], who play in nearby [[Newark, New Jersey]] and appeal mostly to the fans of Northern and Central New Jersey, and the [[New York Islanders]], who play in [[Nassau County, New York|Nassau County]], [[Long Island]] and draw the majority of their fans from Nassau and [[Suffolk County, New York|Suffolk]] Counties. This is the only instance of a single metropolitan area having three teams within one of the four major North American professional sports leagues.
+
+The city's [[National Basketball Association]] team is the [[New York Knicks]] and the city's [[Women's National Basketball Association]] team is the [[New York Liberty]]. Also within the metropolitan area are the [[New Jersey Nets]], who currently share the [[Prudential Center]] in Newark with the Devils, but will be moving to Brooklyn's [[Barclays Center]] when it is complete in 2012 and thereafter be known as the Brooklyn Nets. The first national college-level basketball championship, the [[National Invitation Tournament]], was held in New York in 1938 and remains in the city.&lt;ref&gt;{{cite web|url=http://www.nit.org/history/nit-postseason.html |title=Postseason Overview |publisher=National Invitation Tournament |accessdate=September 1, 2008 |archiveurl = http://web.archive.org/web/20080724155001/http://www.nit.org/history/nit-postseason.html |archivedate = July 24, 2008}}&lt;/ref&gt; [[Rucker Park]] in [[Harlem]] is a celebrated court where many professional athletes play in the summer league.
+
+[[File:Arthur ashe stadium interior.jpg|thumb|right|The [[US Open (tennis)|U.S. Open]], held in Queens, is the fourth and final annual event of the [[Grand Slam (tennis)|Grand Slam tennis]] tournaments.]]
+
+In soccer, New York is represented by the [[Major League Soccer]] side, [[New York Red Bulls]]. The Red Bulls play their home games at [[Red Bull Arena (Harrison)|Red Bull Arena]] in nearby [[Harrison, New Jersey]].
+
+Queens is host of the U.S. Tennis Open, one of the four annual [[Grand Slam (tennis)|Grand Slam]] tournaments. The [[New York City Marathon|New York Marathon]] is one of the world's largest, and the 2004–2006 events hold the top three places in the marathons with the largest number of finishers, including 37,866 finishers in 2006.&lt;ref name = &quot;World's Largest Marathons&quot;&gt;[http://www.aims-association.org/statistics/World's_Largest_Marathons.html World's Largest Marathons], [[Association of International Marathons and Road Races]] (AIMS). Retrieved June 28, 2007.&lt;/ref&gt; The [[Millrose Games]] is an annual track and field meet whose featured event is the [[Wanamaker Mile]]. Boxing is also a prominent part of the city's sporting scene, with events like the Amateur Boxing Golden Gloves being held at [[Madison Square Garden]] each year.
+
+Many sports are associated with New York's immigrant communities. [[Stickball]], a street version of baseball, was popularized by youths in working class Italian, German, and Irish neighborhoods in the 1930s. A street in The Bronx has been renamed Stickball Blvd, as tribute to New York's most known street sport.&lt;ref&gt;{{cite video |people=Sas, Adrian (Producer) |date=2006 |url=http://nycgovparks.org/sub_newsroom/video/index.html?key=16&amp;search= |title=It's my Park: Cricket |medium=TV-Series |location=New York City |publisher=[[New York City Department of Parks &amp; Recreation]]}}&lt;/ref&gt;
+
+==Economy==
+
+{| class=&quot;toc&quot;  style=&quot;float:right; font-size:90%; text-align:center; margin:1em;&quot;
+|-
+| colspan=&quot;6&quot; style=&quot;background:tan;&quot;|'''The Top Twelve ''Fortune'' 500 Companies&lt;br /&gt; in New York City in 2011'''&lt;br /&gt;(ranked by 2010 revenues) †&lt;br /&gt;''with New York and U.S. ranks''
+|- style=&quot;background:#ccc;&quot;
+|| '''NYC'''|||| style=&quot;background:#ccc;&quot;|'''corporation'''|||| style=&quot;background:#ccc;&quot;|'''US'''
+|-
+| 1|||| style=&quot;background:#afa;&quot;|[[J.P. Morgan Chase &amp; Co.]]|||||13
+|-
+| 2|||| style=&quot;background:#afa;&quot;|[[Citigroup]]||||14
+|-
+| 3||||[[Verizon Communications]]||||16
+|-
+| 4|||| style=&quot;background:#afa;&quot;|[[American International Group]]||||17
+|-
+| 5||||[[Pfizer]]||||31
+|-
+| 6|||| style=&quot;background:#afa;&quot;|[[MetLife]]||||46
+|-
+| 7|||| style=&quot;background:#afa;&quot;|[[INTL FCStone]]||||51
+|-
+| 8|||| style=&quot;background:#afa;&quot;|[[Goldman Sachs Group]]||||54
+|-
+| 9|||| style=&quot;background:#afa;&quot;|[[Morgan Stanley]]||||63
+|-
+| 10|||| style=&quot;background:#afa;&quot;|[[New York Life Insurance]]||||71
+|-
+| 11||||[[Hess Corporation|Hess]]||||79
+|-
+| 12||||[[News Corporation]]||||83
+|-
+| colspan=&quot;5&quot; style=&quot;background:#ddd;&quot;|'''Notes'''
+|-
+|colspan=&quot;5&quot;|† ''For fiscal year ending before Feb 2011''
+|-
+| colspan=&quot;5&quot; style=&quot;background:#afa;&quot;|''Financial &amp; insurance companies''
+|-
+| colspan=&quot;5&quot;|See [[Economy of New York City#Fortune 500 Companies in New York City|Economy of New York City]]&lt;br&gt;for a more detailed table and notes&lt;br&gt;
+'''Source:''' ''Fortune'' &lt;ref&gt;[http://money.cnn.com/magazines/fortune/fortune500/2011/states/NY.html Fortune 500 website (New York state)], retrieved July 20, 2011, and ''Fortune'', Volume 163, Number 7 (May 23, 2011), page F-45&lt;/ref&gt;
+|}
+{{Main|Economy of New York City}}
+New York is a global hub of international business and commerce and is one of three &quot;command centers&quot; for the [[world economy]] (along with London and Tokyo).&lt;ref&gt;{{Cite book|author=Sassen, Saskia |title=The Global City: New York, London, Tokyo |year=2001 |publisher=Princeton University Press |edition=2nd |isbn=0691070636 |authorlink=Saskia Sassen}}&lt;/ref&gt; The city is a major center for banking and finance, retailing, world trade, transportation, tourism, real estate, insurance, [[new media]] as well as [[traditional media]], theater, fashion, and the arts in the United States.
+
+The New York [[metropolitan area]] had approximately [[gross metropolitan product]] of $1.28&amp;nbsp;trillion in 2010,&lt;ref&gt;{{cite web|title=Gross Metropolitan Product|url=http://greyhill.com/gross-metropolitan-product|publisher=Greyhill Advisors|accessdate=6 October 2011}}&lt;/ref&gt;  making it the largest regional economy in the United States and, according to ''[[IT Week]]'', the second largest city economy in the world.&lt;ref name=&quot;London ranked as world's six largest economy&quot;&gt;{{cite web|url=http://www.accountancyage.com/aa/news/1774656/london-ranked-world-s-largest-city-economy|title=London ranked as world's six largest economy|publisher=ITWeek|accessdate=August 4, 2008}}&lt;/ref&gt; According to ''Cinco Dias'', New York controlled 40% of the world's finances by the end of 2008, making it the largest financial center in the world.&lt;ref name=&quot;London vs. New York&quot;&gt;{{cite web|url=http://www.cincodias.com/articulo/mercados/Londres-versus-Nueva-York/20080901cdscdimer_3/cdsmer/|title=London vs. New York, 2005–06|format=PDF|publisher=Cinco Dias|accessdate=March 11, 2008}}&lt;/ref&gt;&lt;ref name=&quot;New York still World's Financal Capital&quot;&gt;{{cite web|url=http://www.marketwatch.com/story/credit-crunch-shows-new-york-is-still-worlds-financial-capital/|title=London may have the IPOs...|publisher=Marketwatch|accessdate=August 30, 2009}}&lt;/ref&gt;&lt;ref name=&quot;Is New York still the World's Financal Capital&quot;&gt;{{Cite news|url=http://freakonomics.blogs.nytimes.com/2008/02/07/is-new-york-still-the-financial-capital-of-the-world/|title= Is New York Still the Financial Capital of the World?|work=New York Times|accessdate=August 30, 2009|first=Stephen J.|last=Dubner|date=February 7, 2008}}&lt;/ref&gt;
+
+Many major corporations are headquartered in New York City, including 45 [[Fortune 500]] companies.&lt;ref&gt;[http://money.cnn.com/magazines/fortune/fortune500/2011/cities/ ''Fortune'' 500 web site (cities)], retrieved July 21, 2011; ''Fortune'', Vol. 163, no. 7 (May 23, 2011), page F-45&lt;/ref&gt; New York is also unique among American cities for its large number of foreign corporations. One out of ten private sector jobs in the city is with a foreign company.&lt;ref&gt;{{Cite news|title=Keeping the Economy Growing |author=Wylde, Kathryn |publisher=Gotham Gazette |date=January 23, 2006 |url=http://www.gothamgazette.com/article/fea/20060123/202/1727 |accessdate=September 1, 2008}}&lt;/ref&gt;
+
+[[Manhattan]] had 353.7&amp;nbsp;million square feet (32,860,000 m²) of office space in 2001.&lt;ref name=&quot;Four Percent of Manhattan's Total Office Space Was Destroyed in the World Trade Center Attack&quot;&gt;{{cite web|url=http://www.allbusiness.com/construction/4266400-1.html|title=Four Percent of Manhattan's Total Office Space Was Destroyed in the World Trade Center Attack|publisher=Allbusiness|date=September 25, 2001|accessdate=August 5, 2008}}&lt;/ref&gt;
+
+[[Midtown Manhattan]] is the largest central business district in the United States. [[Lower Manhattan]] is the third largest central business district in the United States and is home to The [[New York Stock Exchange]], located on [[Wall Street]], and the [[NASDAQ]], representing the world's first and second largest stock exchanges, respectively, when measured by average daily trading volume and overall market capitalization.&lt;ref&gt;{{cite web|author=Claessens, Stjin |title=Electronic Finance: Reshaping the Financial Landscape Around the World |publisher=The World Bank |month=September|year=2000 |url=http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTENERGY/0,,contentMDK:20708340~pagePK:210058~piPK:210062~theSitePK:336806,00.html |format=PDF |accessdate=September 1, 2008 |archiveurl = http://web.archive.org/web/20080804050013/http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTENERGY/0,,contentMDK:20708340~pagePK:210058~piPK:210062~theSitePK:336806,00.html |archivedate = August 4, 2008}}&lt;/ref&gt; Financial services account for more than 35% of the city's employment income.&lt;ref&gt;{{cite web|url=http://www.newyorkfed.org/research/current_issues/ci12-1.pdf|format=PDF |title=Challenges Facing the New York Metropolitan Area Economy |author=Orr, James and Giorgio Topa |work=Current Issues in Economics and Finance&amp;nbsp;– Second District Highlights |publisher=New York Federal Reserve |date=Volume 12, Number 1, January 2006|accessdate=September 1, 2008}}&lt;/ref&gt;
+
+Real estate is a major force in the city's economy, as the total value of all New York City property was $802.4&amp;nbsp;billion in 2006.&lt;ref name=&quot;NYC real estate&quot;&gt;{{cite web|title=Tentative Assessment Roll: Fiscal Year 2008 |publisher=New York City Department of Finance |date=January 15, 2007 |url=http://www.nyc.gov/html/dof/html/pdf/07pdf/tent-ass-roll-07-08t.pdf |format=PDF |accessdate=September 1, 2008}}&lt;/ref&gt; The [[Time Warner Center]] is the property with the highest-listed market value in the city, at $1.1&amp;nbsp;billion in 2006.&lt;ref name=&quot;NYC real estate&quot; /&gt;
+New York City is home to some of the nation's—and the world's—most valuable real estate. 450 [[Park Avenue (Manhattan)|Park Avenue]] was sold on July 2, 2007 for $510&amp;nbsp;million, about $1,589 per square foot ($17,104/m²), breaking the barely month-old record for an American office building of $1,476 per square foot ($15,887/m²) set in the June 2007 sale of 660 Madison Avenue.&lt;ref&gt;Quirk, James. {{cite web|url=http://www.northjersey.com/page.php?qstr=eXJpcnk3ZjczN2Y3dnFlZUVFeXk4NDImZmdiZWw3Zjd2cWVlRUV5eTcxNjI5NzEmeXJpcnk3ZjcxN2Y3dnFlZUVFeXkyMg==|title= Bergen offices have plenty of space |archiveurl=http://web.archive.org/web/20071222235142/http://www.northjersey.com/page.php?qstr=eXJpcnk3ZjczN2Y3dnFlZUVFeXk4NDImZmdiZWw3Zjd2cWVlRUV5eTcxNjI5NzEmeXJpcnk3ZjcxN2Y3dnFlZUVFeXkyMg==|archivedate=December 22, 2007}}, ''[[The Record (Bergen County)]]'', July 5, 2007. Accessed July 5, 2007. &quot;On Monday, a 26-year-old, 33-story office building at 450 Park Ave. sold for a stunning $1,589 per square foot, or about $510&amp;nbsp;million. The price is believed to be the most ever paid for a U.S. office building on a per-square-foot basis. That broke the previous record—set four weeks earlier—when 660 Madison Ave. sold for $1,476 a square foot.&quot;&lt;/ref&gt;
+[[File:NYC NYSE.jpg|thumb|left|200px|The [[New York Stock Exchange]] on [[Wall Street]], the world's largest stock exchange by total [[market capitalization]] of its listed companies.&lt;ref&gt;{{cite web|url=http://www.world-exchanges.org/files/file/stats%20and%20charts/July%202010%20WFE%20Market%20Highlights.pdf|title=Market highlights for first half-year 2010|publisher=World Federation of Exchanges|accessdate=May 1, 2011}}&lt;/ref&gt;]]
+The city's television and film industry is the second largest in the country after [[Hollywood, Los Angeles, California|Hollywood]].&lt;ref&gt;{{cite web|url=http://www.nyc.gov/html/film/html/news/stats.shtml |archiveurl=http://web.archive.org/web/20080214051145/http://www.nyc.gov/html/film/html/news/stats.shtml |archivedate=February 14, 2008 |title=NYC Film Statistics |publisher=Mayor's Office of Film, Theatre, and Broadcasting |accessdate=September 1, 2008}}&lt;/ref&gt; Creative industries such as new media, advertising, fashion, design and architecture account for a growing share of employment, with New York City possessing a strong competitive advantage in these industries.&lt;ref&gt;{{Cite journal|author=Currid, Elizabeth |title=New York as a Global Creative Hub: A Competitive Analysis of Four Theories on World Cities |journal=Economic Development Quarterly |year=2006 |volume=20 |pages=330–350 |doi=10.1177/0891242406292708 | issue=4}}&lt;/ref&gt;
+
+High-tech industries like [[biotechnology]], [[software development]], [[game design]], and internet services are also growing, bolstered by the city's position at the terminus of several [[transatlantic telephone cable|transatlantic fiber optic trunk lines]].&lt;ref&gt;{{cite web|title=Telecommunications and Economic Development in New York City: A Plan for Action|publisher=New York City Economic Development Corporation |month=March|year=2005 |url=http://www.nycedc.com/about_us/TelecomPlanMarch2005.pdf |archiveurl=http://web.archive.org/web/20080307231248/http://www.nycedc.com/about_us/TelecomPlanMarch2005.pdf |archivedate=March 7, 2008 |format=PDF |accessdate=July 19, 2006}}&lt;/ref&gt; Other important sectors include medical research and technology, [[non-profit]] institutions, and universities.
+
+Manufacturing accounts for a large but declining share of employment. Garments, chemicals, metal products, processed foods, and furniture are some of the principal products.&lt;ref&gt;{{cite web|url=http://www.nyc.gov/html/imb/downloads/pdf/whitepaper.pdf |format=PDF |title=Protecting and Growing New York City's Industrial Job Base |publisher=The Mayor's Office for Industrial and Manufacturing Business |month=January|year=2005 |accessdate=September 1, 2008}}&lt;/ref&gt; The food-processing industry is the most stable major manufacturing sector in the city.&lt;ref name=&quot;food manufacturing&quot;&gt;{{cite web|url=http://www.nyc.gov/html/imb/downloads/pdf/more_than_link_food_chain.pdf |format=PDF |title=More Than a Link in the Food Chain |publisher=The Mayor's Office for Industrial and Manufacturing Business |accessdate=September 1, 2008 |month=February|year=2007}}&lt;/ref&gt; Food making is a $5&amp;nbsp;billion industry that employs more than 19,000 residents. Chocolate is New York City's leading specialty-food export, with $234&amp;nbsp;million worth of exports each year.&lt;ref name=&quot;food manufacturing&quot; /&gt;
+
+==Demographics==
+&lt;!-- CONSIDER ADDING TO &quot;DEMOGRAPHICS OF NYC&quot; DAUGHTER ARTICLE INSTEAD OF ADDING LENGTH HERE. --&gt;
+{{See|Demographics of New York City|New York City ethnic enclaves|Demographic profile of New York City}}
+{| class=&quot;wikitable collapsible collapsed&quot; align=&quot;{{{align|right}}}&quot; style=&quot;float:right; margin:1em; margin-top:0; text-align:right; font-size:90%&quot;
+|-
+! style=&quot;background:tan;&quot; colspan=&quot;4&quot;|&lt;font style=&quot;color:black;&quot;&gt;City compared to State &amp; U.S.
+|- style=&quot;background:#ccc; text-align:center;&quot;
+|'''[[United States Census, 2000|2000 Census]]'''&lt;ref name=&quot;census&quot;&gt;{{cite web|publisher=New York City Department of City Planning |title=The Current Population of NYC (2005) |url=http://www.nyc.gov/html/dcp/pdf/census/detailed_narrative_2005.pdf| format=PDF| accessdate=March 13, 2007}} These figures were adopted by the U.S. Census Bureau in September 2006.&lt;/ref&gt;||'''NY City'''||'''NY State'''||'''U.S.'''
+|-
+|align=left|Total population||8,213,839||18,976,457||281,421,906
+|-
+|align=left|Population, percent change, 1990 to 2000||+9.4%||+5.5%||+13.1%
+|-
+|align=left|Population density||26,403/mi²||402/mi²||80/mi²
+|-
+|align=left|Median household income (1999)||$38,293||$43,393||$41,994
+|-
+|align=left|Bachelor's degree or higher||27%||27%||29%
+|-
+|align=left|Foreign born||36%||20%||11%
+|-
+|align=left|White (non-Hispanic)||35%||62%||67%
+|-
+|align=left|Black||28%||16%||12%
+|-
+|align=left|Hispanic (any race)||27%||15%||11%
+|-
+|align=left|Asian||10%||6%||4%
+|}
+
+{{Historical populations|type=USA
+| 1698|4937
+| 1712|5840
+| 1723|7248
+| 1737|10664
+| 1746|11717
+| 1756|13046
+| 1771|21863
+| 1790|49401
+| 1800|79216
+| 1810|119734
+| 1820|152056
+| 1830|242278
+| 1840|391114
+| 1850|696115
+| 1860|1174779
+| 1870|1478103
+| 1880|1911698
+| 1890|2507414
+| 1900|3437202
+| 1910|4766883
+| 1920|5620048
+| 1930|6930446
+| 1940|7454995
+| 1950|7891957
+| 1960|7781984
+| 1970|7894862
+| 1980|7071639
+| 1990|7322564
+| 2000|8008288
+| 2010|8175133
+|footnote=Note: Census figures (1790–2010) cover the present area of all five boroughs, before and after the 1898 consolidation. For New York City itself before annexing part of the Bronx in 1874, see [[Manhattan#Demographics]].&lt;ref name=&quot;EncNYC&quot;/&gt; '''Sources:''' 1698–1771,&lt;ref&gt;{{Cite book|author=Greene and Harrington|title=American Population Before the Federal Census of 1790|location=New York|year=1932}}, as cited in: {{Cite book|last=Rosenwaike|first=Ira|title=Population History of New York City|publisher=Syracuse University Press|location=Syracuse, N.Y.|year=1972|isbn=0815621558|page=8}}&lt;/ref&gt; 1790–1890,&lt;ref name=&quot;EncNYC&quot;&gt;''The [[Encyclopedia of New York City]]'', ed. Kenneth T. Jackson (Yale 1995, ISBN 0-300-05536-6), page 923, citing &quot;U.S. Department of Commerce, Bureau of the Census, Census of Population 1960 (vol.1, part A, table 28), 1970, 1980, 1990&quot;. After annexing part of the Bronx in 1874, the population of the then-New York City was 1,206,299 in 1880 and 1,515,301 in 1890.&lt;/ref&gt;&lt;ref&gt;U.S. Census, from ''The [[World Almanac]] and Book of Facts,'' 1929 (reprinted in 1971 by American Heritage Press and Workman Publishing, ISBN 0-07-071881-4), page 503.&lt;/ref&gt; 1900–1990,&lt;ref&gt;Gibson, Campbell.[http://www.census.gov/population/www/documentation/twps0027.html Population of the 100 Largest Cities and Other Urban Places in the United States:1790 to 1990], [[United States Census Bureau]], June 1998. Retrieved June 12, 2007.&lt;/ref&gt; 2000 and 2010 Census.&lt;ref name=&quot;2009 est pop&quot;/&gt;&lt;ref name=Roberts-census&gt;{{cite news|last=Roberts|first=Sam|title=City Population Barely Grew in the ’00s, Census Finds|url=http://www.nytimes.com/2011/03/25/nyregion/25census.html|accessdate=March 24, 2011|newspaper=The New York Times|date=March 24, 2011}}&lt;/ref&gt;
+}}
+
+New York is the most populous city in the United States. As of the [[2010 United States Census]], the city's population stood at a record high of 8,175,133, a 2.1% increase from the 8 million counted in 2000. Mayor Michael R. Bloomberg immediately challenged the Census Bureau’s 2010 data as representing an undercount upon release.&lt;ref name=&quot;Sam Roberts&quot;&gt;{{cite news|url=http://www.nytimes.com/2011/03/25/nyregion/25census.html?_r=1&amp;scp=9&amp;sq=new%20york%20census%202010%20asians%20queens&amp;st=cse|title=New York City’s Population Barely Rose in the Last Decade, the Census Finds|author=Sam Roberts|date=March 24, 2011|accessdate=May 1, 2011|work=The New York Times}}&lt;/ref&gt; This amounts to about 40% of the state of New York's population and a similar percentage of the metropolitan regional population. In 2006, demographers estimated that New York's population will reach between 9.2 and 9.5&amp;nbsp;million by 2030.&lt;ref&gt;{{cite web|title=New York City Population Projections by Age/Sex and Borough, 2000–2030 |publisher=New York City Department of City Planning |date = December 2006|url=http://www.nyc.gov/html/dcp/pdf/census/projections_report.pdf |format=PDF |accessdate=March 27, 2007}} See also {{Cite news|last=Roberts, Sam |title=By 2025, Planners See a Million New Stories in the Crowded City |work=New York Times |date=February 19, 2006 |url=http://www.nytimes.com/2006/02/19/nyregion/19population.html?ex=1298005200&amp;en=c586d38abbd16541&amp;ei=5090&amp;partner=rssuserland&amp;emc=rss |accessdate=July 19, 2006}}&lt;/ref&gt; The city's population in 2010 was 33% [[White American|white]] (non-Hispanic), 23% [[Black American|black]] (non-Hispanic), and 13% [[Asian American|Asian]]. Hispanics of any race represented 29% of the population, while Asians constituted the fastest growing segment of the city's population between 2000 and 2010; the [[Non-Hispanic Whites|non-Hispanic white]] population declined 3 percent, the smallest recorded decline in decades; and for the first time since the Civil War, the number of blacks declined over a decade.&lt;ref name=&quot;Sam Roberts&quot;/&gt;
+[[File:Mulberry Street NYC c1900 LOC 3g04637u edit.jpg|thumb|left|Manhattan's [[Little Italy, Manhattan|Little Italy]], [[Lower East Side, Manhattan|Lower East Side]], circa 1900]]
+Two demographic points are New York City's density and ethnic diversity. In 2010, the city had a population density of 27,532 people per square mile (10,630/km²), rendering it the most densely populated of all municipalities with over 100,000 population in the United States; however, several small cities in adjacent [[Hudson County, New Jersey]] are actually [[List of United States cities by population density|more dense overall]], as per the 2000 Census.&lt;ref&gt;{{cite web|url=http://factfinder.census.gov/servlet/GCTTable?_bm=y&amp;-context=gct&amp;-ds_name=DEC_2000_SF1_U&amp;-mt_name=DEC_2000_SF1_U_GCTPH1_ST7&amp;-CONTEXT=gct&amp;-tree_id=4001&amp;-geo_id=04000US34&amp;-format=ST-7%7CST-7S&amp;-_lang=en|title=New Jersey – Place and County Subdivision GCT-PH1. Population, Housing Units, Area, and Density:  2000|publisher=U.S. Census Bureau|accessdate=May 1, 2011}}&lt;/ref&gt; Geographically co-extensive with [[New York County]], conversely, the borough of Manhattan's population density of 66,940 people per square mile&lt;ref&gt;{{cite web|url=http://factfinder.census.gov/servlet/GCTTable?_bm=y&amp;-geo_id=04000US36&amp;-_box_head_nbr=GCT-PH1&amp;-ds_name=DEC_2000_SF1_U&amp;-format=ST-2|title=New York -- County GCT-PH1. Population, Housing Units, Area, and Density: 2000|publisher=U.S. Census Bureau|accessdate=2011-10-01}}&lt;/ref&gt; (25,846/km²) makes it the highest of any county in the United States&lt;ref&gt;[http://gislounge.com/features/aa041101c.shtml &quot;Population Density&quot;], Geographic Information Systems&amp;nbsp;– GIS of Interest. Accessed May 17, 2007. &quot;What I discovered is that out of the 3140 counties listed in the Census population data only 178 counties were calculated to have a population density over one person per acre. Not surprisingly, New York County (which contains Manhattan) had the highest population density with a calculated 104.218 persons per acre.&quot;&lt;/ref&gt; and higher than the density of any individual American city.
+
+New York City's population is exceptionally diverse.&lt;ref&gt;&quot;[http://www.digitalhistory.uh.edu/photo_album/album_p1.html On the Trail of the Immigrant]&quot;. Digital History.&lt;/ref&gt; Throughout its history the city has been a major point of entry for immigrants; more than 12 million European immigrants passed through [[Ellis Island]] between 1892 and 1924.&lt;ref&gt;&quot;[http://www.usatoday.com/news/nation/2008-09-23-ellis-island_N.htm Ellis Island strives to tell more complete immigration story]&quot;. [[USA Today]]. September 24, 2008.&lt;/ref&gt; The term &quot;[[melting pot]]&quot; was first coined to describe densely populated immigrant neighborhoods on the [[Lower East Side, Manhattan|Lower East Side]]. By 1900, [[German American|Germans]] constituted the largest immigrant group, followed by the [[Irish American|Irish]], [[Ashkenazi Jews|Jews]], and [[Italian American|Italians]].&lt;ref&gt;&quot;[http://www.1911encyclopedia.org/New_York_(City) New York City]&quot;. 1911 Encyclopædia Britannica.&lt;/ref&gt; 
+
+Approximately 36% of the city's population is foreign-born.&lt;ref name=&quot;NYC immigration&quot;&gt;{{cite web|title=The Newest New Yorkers: 2000 |publisher=[[New York City Department of City Planning]] |year=2005 |url=http://www.nyc.gov/html/dcp/pdf/census/nny_briefing_booklet.pdf |format=PDF |accessdate=September 1, 2008}}&lt;/ref&gt; Among American cities, this proportion is higher only in [[Los Angeles]] and [[Miami]].&lt;ref name=&quot;census2000&quot;&gt;{{cite web|title=Census 2000 Data for the State of New York|publisher=U.S. Census Bureau|url=http://www.census.gov/census2000/states/ny.html|accessdate=July 19, 2006}}&lt;/ref&gt; While the immigrant communities in those cities are dominated by a few nationalities, in New York no single country or region of origin dominates. The ten largest sources of foreign-born individuals in the metropolitan area are the [[Dominican Republic]], [[China]], [[Jamaica]], [[Mexico]], [[India]], [[Ecuador]], [[Italy]], [[Haiti]], [[Colombia]], and [[Guyana]].&lt;ref&gt;{{cite web|title=Appendix Table 5-4: Ten Largest Sources of the Foreign-Born by County New York Metropolitan Region, 2000 |publisher=New York City Department of City Planning |year=2005 |url=http://home2.nyc.gov/html/dcp/pdf/census/nny_table_5_4.pdf |format=PDF |accessdate=March 26, 2007}}&lt;/ref&gt; The New York region continues to be the leading metropolitan gateway for legal immigrants admitted into the United States.&lt;ref&gt;{{cite web|url=http://www.dhs.gov/files/statistics/publications/LPR09.shtm|title=Yearbook of Immigration Statistics: 2009&amp;nbsp;– Supplemental Table 2|accessdate=April 30, 2010}}&lt;/ref&gt;
+[[File:chinatown manhattan 2009.JPG|thumb|left| [[Manhattan Chinatown]] ]]
+The New York City metropolitan area is home to the largest [[American Jews|Jewish community]] outside [[Israel]].&lt;ref&gt;{{cite web|url=http://www.simpletoremember.com/vitals/world-jewish-population.htm|title=World Jewish Population|publisher=SimpleToRemember.com – Judaism Online|accessdate=May 12, 2011}}&lt;/ref&gt; It is also home to nearly a quarter of the nation's [[Indian Americans]] and 15% of all [[Korean Americans]];&lt;ref&gt;{{cite web|url=http://factfinder.census.gov/servlet/ADPTable?_bm=y&amp;-geo_id=33000US408&amp;-qr_name=ACS_2009_1YR_G00_DP5&amp;-context=adp&amp;-ds_name=&amp;-tree_id=309&amp;-_lang=en&amp;-redoLog=false&amp;-format=|title=New York-Newark-Bridgeport, NY-NJ-CT-PA CSA ACS Demographic and Housing Estimates: 2009|publisher=U.S. Census Bureau|accessdate=May 12, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://factfinder.census.gov/servlet/ADPTable?_bm=y&amp;-geo_id=01000US&amp;-qr_name=ACS_2009_1YR_G00_DP5&amp;-context=adp&amp;-ds_name=&amp;-tree_id=5309&amp;-_lang=en&amp;-redoLog=false&amp;-format=|title=United States ACS Demographic and Housing Estimates: 2009|publisher=U.S. Census Bureau|accessdate=May 12, 2011}}&lt;/ref&gt; the largest [[African American]] community of any city in the country; and including 6 [[Chinatown]]s in the city proper,&lt;ref&gt;{{cite news|url=http://www.nytimes.com/2011/06/24/nyregion/asian-new-yorkers-asian-new-yorkers-seek-power-to-match-surging-numbers.html?scp=1&amp;sq=asians&amp;st=cse|title=Asian New Yorkers Seek Power to Match Numbers|author=Kirk Semple|publisher=The New York Times Company|date=2011-06-23|accessdate=2011-07-05}}&lt;/ref&gt; comprised as of 2008 a population of 659,596 [[overseas Chinese]],&lt;ref&gt;{{cite web|url=http://factfinder.census.gov/servlet/ADPTable?_bm=y&amp;-geo_id=33000US408&amp;-qr_name=ACS_2008_1YR_G00_DP5&amp;-context=adp&amp;-ds_name=&amp;-tree_id=308&amp;-_lang=en&amp;-redoLog=false&amp;-format=|title=New York-Newark-Bridgeport, NY-NJ-CT-PA Combined Statistical Area ACS Demographic and Housing Estimates: 2008|accessdate=April 17, 2010}}&lt;/ref&gt; the largest outside of [[Asia]]. New York City alone, according to the 2010 Census, has now become home to more than one million Asian Americans, greater than the combined totals of [[San Francisco]] and Los Angeles.&lt;ref&gt;{{cite news|url=http://www.nytimes.com/2011/06/24/nyregion/asian-new-yorkers-asian-new-yorkers-seek-power-to-match-surging-numbers.html?scp=1&amp;sq=asians&amp;st=cse|title=Asian New Yorkers Seek Power to Match Numbers|author=Kirk Semple|publisher=The New York Times Company|date=2011-06-23|accessdate=2011-07-05|quote=Asians, a group more commonly associated with the West Coast, are surging in New York, where they have long been eclipsed in the city’s kaleidoscopic racial and ethnic mix. For the first time, according to census figures released in the spring, their numbers have topped one million — nearly 1 in 8 New Yorkers — which is more than the Asian population in the cities of San Francisco and Los Angeles combined.}}&lt;/ref&gt; New York contains the highest total Asian population of any U.S. city proper.&lt;ref&gt;{{cite web|url=http://www.ameredia.com/resources/demographics/asian_american.html |title=Asian American Statistics |publisher=© 2011 Améredia Incorporated |accessdate=2011-07-05}}&lt;/ref&gt; 6.0% of New York City is of [[Chinese American|Chinese ethnicity]], with about forty percent of them living in the [[borough of Queens]] alone. [[Korean Americans|Koreans]] make up 1.2% of the city's population, and [[Japanese American|Japanese]] at 0.3%. [[Filipino Americans|Filipino]]s are the largest southeast Asian ethnic group at 0.8%, followed by [[Vietnamese American|Vietnamese]] who make up only 0.2% of New York City's population. [[Indian American|Indian]]s are the largest [[South Asian]] group, comprising 2.4% of the city's population, and [[Bangladeshi American|Bangladeshi]]s and [[Pakistani American|Pakistani]]s at 0.7% and 0.5%, respectively.&lt;ref&gt;{{cite web|url=http://www.nyc.gov/html/dcp/pdf/census/census2010/t_sf1_p9_nyc.pdf|title=Table SF1-P9 NYC:  Total Asian Population by Selected Subgroups|author=|publisher=NYC.gov|accessdate=2011-08-27}}&lt;/ref&gt;
+
+There are also substantial [[Puerto Rican people|Puerto Rican]] and [[Dominican Republic|Dominican]] populations. Another significant ethnic group is [[Italian people|Italians]], who emigrated to the city in large numbers in the early twentieth century, mainly from [[Sicily]] and other parts of southern Italy. The [[Irish Americans in New York City|Irish]] also have a notable presence; one in 50 New Yorkers of European origin carries a distinctive genetic signature on his Y chromosome inherited from the clan of [[Niall of the Nine Hostages]], an Irish king of the fifth century A.D.&lt;ref&gt;{{Cite journal|author=Moore LT, McEvoy B, Cape E, Simms K, Bradley DG| title=A Y-Chromosome Signature of Hegemony in Gaelic Ireland|journal=The American Journal of Human Genetics|volume=78|issue=2|pages=334–338|date=February 2006|url=http://www.journals.uchicago.edu/AJHG/journal/issues/v78n2/43032/43032.web.pdf|format=PDF|pmid=16358217|accessdate =June 7, 2007|doi=10.1086/500055|pmc=1380239}} {{Dead link|date=September 2010|bot=H3llBot}} See also {{Cite news|title=If Irish Claim Nobility, Science May Approve|work=The New York Times|date=January 18, 2006|url=http://www.nytimes.com/2006/01/18/science/18irish.html?ex=1149652800&amp;en=2336ca46c937614b&amp;ei=5070|first=Nicholas|last=Wade|accessdate=July 16, 2006}}&lt;/ref&gt; or from one of the related clans of Uí Briúin and Uí Fiachrach.&lt;ref&gt;{{cite journal |last=O'Neill |last2=McLaughlin |title=Insights Into the O'Neills of Ireland from DNA Testing |journal=Journal of Genetic Genealogy |year=2006 |url=http://www.jogg.info/22/ONeill.htm }}&lt;/ref&gt;
+
+The metropolitan area is home to a self-identifying [[gay]] and [[bisexual]] community estimated at 568,903 individuals, the largest in the United States.&lt;ref&gt;{{cite web|url=http://www3.law.ucla.edu/williamsinstitute/publications/SameSexCouplesandGLBpopACS.pdf|title=Same-sex Couples and the Gay, Lesbian, Bisexual Population: New Estimates from the American Community Survey|author=Gary J. Gates, PhD|publisher=The Williams Institute on Sexual Orientation|accessdate=2011-07-05}}&lt;/ref&gt; [[Same-sex marriage in New York|Same-sex marriages in New York]] were legalized on June 24, 2011 and were authorized to take place beginning 30 days thereafter.&lt;ref&gt;{{cite news|url=http://www.nytimes.com/2011/06/25/nyregion/gay-marriage-approved-by-new-york-senate.html?_r=1&amp;hp|title=New York Allows Same-Sex Marriage, Becoming Largest State to Pass Law|author=Nicholas Confessore and Michael Barbaro|publisher=The New York Times Company|date=2011-06-24|accessdate=2011-07-05}}&lt;/ref&gt;
+
+New York City has a high degree of income disparity. In 2005 the median household income in the wealthiest census tract was $188,697, while in the poorest it was $9,320.&lt;ref&gt;{{Cite news|author=Roberts, Sam |title=In Manhattan, Poor Make 2 Cents for Each Dollar to the Rich |work=The New York Times |date=April 9, 2005 |url=http://www.fiscalpolicy.org/SamRoberts4Sep05.htm |accessdate=March 27, 2007}}&lt;/ref&gt;  The disparity is driven by wage growth in high income brackets, while wages have stagnated for middle and lower income brackets. In 2006 the average weekly wage in Manhattan was $1,453, the highest and fastest growing among the largest counties in the United States.&lt;ref name=ManhattanLabor&gt;{{cite web|title=Average Weekly Wage in Manhattan at $1,453 in Second Quarter 2006 |publisher=Bureau of Labor Statistics, U.S. Department of Labor|date=February 20, 2007 |url=http://www.bls.gov/ro2/fax/qcew9310.pdf |format=PDF |accessdate=February 21, 2007}}{{dead link|date=August 2011}}&lt;/ref&gt; The borough is also experiencing a baby boom that is unique among American cities. Since 2000, the number of children under age 5 living in Manhattan grew by more than 32%.&lt;ref&gt;{{Cite news|title=In Surge in Manhattan Toddlers, Rich White Families Lead Way |author=Roberts, Sam |work=The New York Times |date=March 27, 2007 |url= http://www.nytimes.com/2007/03/23/nyregion/23kid.html|accessdate=March 27, 2007}}&lt;/ref&gt;
+
+==Law and government==
+&lt;!-- PLEASE CONSIDER ADDING TO &quot;GOV'T OF NYC&quot; DAUGHTER ARTICLE INSTEAD OF ADDING LENGTH HERE. --&gt;
+{{Main|Government of New York City}}
+[[File:Municipal Building - New York City.jpg|thumb|left|upright|The [[Manhattan Municipal Building]] is home to many city agencies.]]
+
+Since its consolidation in 1898, New York City has been a [[metropolitan municipality]] with a &quot;strong&quot; [[Mayor-council government|mayor-council form of government]]. The government of New York is more centralized than that of most other U.S. cities. In New York City, the central government is responsible for public education, correctional institutions, libraries, public safety, recreational facilities, sanitation, water supply and welfare services. The [[Mayor of New York City|mayor]] and [[councillor]]s are elected to four-year terms. The [[New York City Council]] is a [[unicameralism|unicameral]] body consisting of 51 Council members whose districts are defined by geographic population boundaries.&lt;ref&gt;{{cite web|url=http://www.nyccouncil.info/html/actioncenter/moved.cfm|archiveurl=http://web.archive.org/web/20071208230244/http://www.nyccouncil.info/html/actioncenter/moved.cfm|archivedate=December 8, 2007 |title=About the Council |publisher=New York City Council |accessdate=June 6, 2007}}&lt;/ref&gt; The mayor and councilors are limited to three consecutive four-year terms but can run again after a four year break.
+
+The present mayor is [[Michael Bloomberg]], a former [[Democratic Party (United States)|Democrat]], former [[Republican Party (United States)|Republican]] (2001–2008), and current [[political independent]] elected on the Republican and [[Independence Party of New York|Independence Party]] tickets against opponents supported by the [[Democratic Party (United States)|Democratic]] and [[Working Families Party|Working Families]] Parties in 2001 (50.3% of the vote to 47.9%), 2005 (58.4% to 39%) and 2009 (50.6% to 46%).&lt;ref&gt;{{cite web|title=Statement and Return Report for Certification: General Election 2005 |publisher=New York City Board of Elections |date=November 8, 2005 |url=http://www.vote.nyc.ny.us/pdf/results/2005/general/Manhattan/New%20York%20Mayor%20NY%20Recap.pdf |format=PDF |accessdate=September 1, 2008}}&lt;/ref&gt; Bloomberg is known for taking control of the city's education system from the state, rezoning and economic development, sound fiscal management, and aggressive public health policy. In his second term he has made school reform, poverty reduction, and strict gun control central priorities of his administration.&lt;ref&gt;{{cite web|title=About Mike Bloomberg |url=http://www.mikebloomberg.com/en/about_mike_bloomberg |archiveurl=http://web.archive.org/web/20070928061207/http://www.mikebloomberg.com/en/about_mike_bloomberg |archivedate=September 28, 2007 |publisher=The Official Site of Mike Bloomberg |accessdate=September 1, 2008}}&lt;/ref&gt; Together with [[Boston]] mayor [[Thomas Menino]], in 2006 he founded the [[Mayors Against Illegal Guns Coalition]], an organization with the goal of &quot;making the public safer by getting illegal [[gun politics|guns]] off the streets.&quot;&lt;ref&gt;{{cite web|url=http://www.mayorsagainstillegalguns.org/html/about/history.shtml|title=Mayors Against Illegal Guns: Coalition History|accessdate=November 9, 2009|publisher=Mayor Against Illegal Guns}}&lt;/ref&gt; The Democratic Party holds the majority of public offices. As of November 2008, 67% of registered voters in the city are Democrats.&lt;ref&gt;{{cite web|url=http://www.elections.state.ny.us/NYSBOE/enrollment/county/county_nov08.pdf|title=NYSVoter Enrollment by County, Party Affiliation and Status|date=November 2008|publisher=New York State Board of Elections|accessdate=February 8, 2009}}&lt;/ref&gt; New York City has not been carried by a Republican in a statewide or presidential election since 1924. [[Party platform]]s center on affordable housing, education and economic development, and labor politics are of importance in the city.
+[[File:New York City Hall.jpg|thumb|[[New York City Hall]] is the oldest City Hall in the United States that still houses its original governmental functions.]]
+
+New York is the most important source of political fundraising in the United States, as four of the top five [[ZIP code]]s in the nation for political contributions are in Manhattan. The top zip code, 10021 on the [[Upper East Side]], generated the most money for the 2004 presidential campaigns of [[George W. Bush]] and [[John Kerry]].&lt;ref&gt;{{cite web|title=2006 Election Overview: Top Zip Codes |publisher=Opensecrets.org |url=http://www.opensecrets.org/overview/topzips.php?cycle=2004 |accessdate=September 1, 2008}}&lt;/ref&gt; The city has a strong imbalance of payments with the national and state governments. It receives 83 cents in services for every $1 it sends to the federal government in [[Taxation in the United States|taxes]] (or annually sends $11.4&amp;nbsp;billion more than it receives back). The city also sends an additional $11&amp;nbsp;billion more each year to the state of New York than it receives back.&lt;ref&gt;{{cite web|title=A Fair Share of State Budget: Does Albany Play Fair with NYC?|publisher=New York City Finance Division |date=March 11, 2005 |url=http://webdocs.nyccouncil.info/attachments/65379.htm?CFID=232457&amp;CFTOKEN=33008944 |archiveurl=http://web.archive.org/web/20080525082617/http://webdocs.nyccouncil.info/attachments/65379.htm?CFID=232457&amp;CFTOKEN=33008944 |archivedate=May 25, 2008 |accessdate=September 1, 2008}}&lt;/ref&gt;
+
+Each borough is coextensive with a judicial district of the [[New York Supreme Court]] and hosts other state and city courts. Manhattan also hosts the [[New York Supreme Court, Appellate Division|Supreme Court Appellate Division, First Department]], while Brooklyn hosts the [[New York Supreme Court, Appellate Division|Appellate Division, Second Department]]. Federal courts located near City Hall include the [[United States District Court for the Southern District of New York]], the [[United States Court of Appeals for the Second Circuit]], and the [[Court of International Trade]]. Brooklyn hosts the [[United States District Court for the Eastern District of New York]].
+
+===City planning===
+{{See|Environmental issues in New York City|Food and water in New York City}}
+Mass transit use in New York City is the highest in the United States, and gasoline consumption in the city is the same rate as the national average in the 1920s.&lt;ref name=&quot;NYC energy consumption&quot;&gt;{{Cite book
+  |first=Ben |last=Jervey
+  |title=The Big Green Apple: Your Guide to Eco-Friendly Living in New York City
+  |isbn=0762738359
+  |publisher=Globe Pequot Press
+  |year=2006}}&lt;/ref&gt; The city's high level of mass transit use saved {{convert|1.8|e9USgal|m3}} of oil in 2006; New York City saves half of all the oil saved by transit nationwide.&lt;ref&gt;{{cite web
+  |title=A Better Way to Go: Meeting America's 21st Century Transportation Challenges with Modern Public Transit
+  |publisher=U.S. Public Interest Research Group
+  |month=March|year=2008
+  |url=http://www.uspirg.org/uploads/2q/fV/2qfVu2ZrflTk-TnRQEDdDw/A-Better-Way-to-Go-vUSPIRG.pdf
+  |format=PDF
+  |accessdate=April 23, 2008}}&lt;/ref&gt; The city's population density, low automobile use and high transit utility make it among the most energy efficient cities in the United States.&lt;ref&gt;{{Cite news
+  |author=Owen, David
+  |title=Green Manhattan
+  |work=The New Yorker
+  |date=October 18, 2004}}&lt;/ref&gt; Its greenhouse gas emissions are 7.1 [[metric ton]]s per person compared with the national average of 24.5.&lt;ref name=&quot;NYC emissions&quot;/&gt; New Yorkers are collectively responsible for 1% of the nation's [[greenhouse gas]] emissions&lt;ref name=&quot;NYC emissions&quot;&gt;{{cite web
+  |title=Inventory of New York City Greenhouse Gas Emissions
+  |publisher=New York City Office of Long-term Planning and Sustainability
+  |month=April|year=2007
+  |url=http://www.nyc.gov/html/om/pdf/ccp_report041007.pdf
+  |format=PDF
+  |accessdate=September 1, 2008}}&lt;/ref&gt; though they comprise 2.7% of the nation's population. The average New Yorker consumes less than half the electricity used by a resident of San Francisco and nearly one-quarter the electricity consumed by a resident of [[Dallas]].&lt;ref&gt;{{cite web
+  |url=http://www.nyc.gov/html/planyc2030/html/challenge/faq.shtml
+  |title=Global Warming and Greenhouse Gases
+  |publisher=[[PlaNYC]]/The City of New York
+  |date=December 6, 2006 |accessdate=September 1, 2008}}{{dead link|date=August 2011}}&lt;/ref&gt;
+[[File:NYC Hybrid Taxi.JPG|thumb|As of July 2010 the city had 3,715 [[hybrid taxi]]s in service, the largest number in any city in North America.]]
+In recent years, the city has focused on reducing its environmental impact. Large amounts of concentrated pollution in New York has led to a high incidence of [[asthma]] and other respiratory conditions among the city's residents.&lt;ref&gt;{{Cite journal
+  |title=Urban Asthma and the Neighbourhood Environment in New York City
+  |author=Coburn, Jason, Jeffrey Osleeb, Michael Porter
+  |journal=Health &amp; Place
+  |month=June|year=2006
+  |volume=12 |pages=167–179
+  |pmid=16338632
+  |doi=10.1016/j.healthplace.2004.11.002
+  |issue=2}}&lt;/ref&gt; The city government is required to purchase only the most energy-efficient equipment for use in city offices and public housing.&lt;ref&gt;{{Cite news
+  |author=DePalma, Anthony
+  |title=It Never Sleeps, but It's Learned to Douse the Lights
+  |work=The New York Times
+  |date=December 11, 2005
+  |url=http://www.nytimes.com/2005/12/11/nyregion/11efficiency.html
+  |accessdate=September 1, 2008}}&lt;/ref&gt; New York has the largest clean air diesel-[[hybrid vehicle|hybrid]] and [[compressed natural gas]] bus fleet in the country,&lt;ref&gt;{{cite web
+  |url=http://www.mta.info/nyct/bus/centennial/page2.htm
+  |archiveurl=http://web.archive.org/web/20060525043420/http://mta.info/nyct/bus/centennial/page2.htm
+  |archivedate=May 25, 2006
+  |title=A Century of Buses in New York City
+  |publisher=Metropolitan Transportation Authority
+  |accessdate=September 1, 2008}} See also {{cite press release |url=http://www.sierraclub.org/pressroom/releases/pr2005-07-01a.asp |archiveurl=http://web.archive.org/web/20080418021037/http://www.sierraclub.org/pressroom/releases/pr2005-07-01a.asp |archivedate=April 18, 2008
+  |title=New York City's Yellow Cabs Go Green
+  |publisher=Sierra Club
+  |date=July 1, 2005 |accessdate=September 1, 2008}}&lt;/ref&gt; and also, by mid 2010 the city had 3,715 [[hybrid electric vehicle|hybrid]] taxis and other [[clean diesel]] vehicles, representing around 28% of New York's taxi fleet in service, the most in any city in North America.&lt;ref name=NYT072710&gt;
+{{Cite news
+  |url=http://cityroom.blogs.nytimes.com/2010/07/27/appeals-court-rejects-effort-to-create-hybrid-taxi-fleet/?emc=eta1
+  |title=Appeals Court Rejects Effort to Create Hybrid Taxi Fleet
+  |work=New York Times
+  |date=July 27, 2010
+  |accessdate=July 31, 2010
+ |first=Andy|last=Newman
+}}&lt;/ref&gt;
+
+The city government was a petitioner in the landmark ''[[Massachusetts v. Environmental Protection Agency]]'' Supreme Court case forcing the EPA to regulate greenhouse gases as pollutants. The city is also a leader in the construction of energy-efficient [[green building|green office buildings]], including the [[Hearst Tower (New York City)|Hearst Tower]] among others.&lt;ref name=&quot;greenbuilding&quot;&gt;{{Cite news
+  |title=7 World Trade Center and Hearst Building: New York's Test Cases for Environmentally Aware Office Towers
+  |work=The New York Times
+  |date=April 16, 2006
+  |url=http://www.nytimes.com/2006/04/16/arts/design/16gree.html
+  |accessdate=September 1, 2008
+  |author=Pogrebin, Robin}}&lt;/ref&gt;
+
+The city is supplied with drinking water by the protected [[Catskill Mountains]] [[Drainage basin|watershed]].&lt;ref&gt;{{cite web
+  |url=http://www.nyc.gov/html/dep/html/maplevels.html
+  |title=Current Reservoir Levels
+  |publisher=New York City Department of Environmental Protection
+  |accessdate=June 4, 2007}}&lt;/ref&gt; As a result of the watershed's integrity and undisturbed natural water filtration system, New York is one of only four major cities in the United States with drinking water pure enough not to require purification by [[water treatment]] plants.&lt;ref&gt;{{Cite news
+  |title=City's Drinking Water Feared Endangered; $10B Cost Seen
+  |publisher=The New York Sun
+  |date=August 6, 2008
+  |url=http://www.nysun.com/new-york/citys-drinking-water-feared-endangered-10b-cost/83288/
+  |accessdate=August 9, 2008
+  |author=Lustgarten, Abrahm}}&lt;/ref&gt;
+
+New York is the only US city in which a majority (52%) of households do not have a car; only 22% of Manhattanites own a car.&lt;ref&gt;{{cite web |url=http://www.infrastructureusa.org/wp-content/uploads/2010/03/itdp_parking_fullreport.pdf |title=U.S. Parking Policies: An Overview of Management Strategies |publisher=Institute for Transportation and Development Policy |author=Rachel Weinberger, John Kaehny, Matthew Rufo |page=62 |year=2010 |quote= New York City is the largest, densest and most transit- and pedestrian-oriented city in the United States. It is the only U.S. city in which a majority of households do not have a car. Despite this, New York City is very much an American city in the way it under prices and under uses curbside parking meters. Meter rates are far lower than in other leading world cities, and New York suffers from high levels of cruising and double parking (p 62)... Nationally 90% of households own automobiles. New Yorkers own fewer at 48% with only 22% of Manhattan residents owning automobiles (page 78) |accessdate=June 11, 2011}}&lt;/ref&gt;
+
+===Crime===
+{{See|Crime in New York City|Law enforcement in New York City}}
+Since 2005 the city has had the lowest crime rate among the 25 largest U.S. cities, having become significantly safer after a spike in crime in the 1980s&lt;ref name=&quot;Prager&quot;&gt;[http://www.americanheritage.com/articles/magazine/ah/2006/1/2006_1_66.shtml Arthur Prager]{{dead link|date=August 2011}} &quot;Worst-Case Scenario,&quot; ''American Heritage'', February/March 2006.&lt;/ref&gt; and early 1990s from the [[crack epidemic]] that affected many neighborhoods. By 2002, New York City had about the same crime rate as [[Provo, Utah]] and was ranked 197th in crime among the 216 U.S. cities with populations greater than 100,000. Violent crime in New York City decreased more than 75% from 1993 to 2005 and continued decreasing during periods when the nation as a whole saw increases.&lt;ref&gt;{{cite web|url=http://www.lib.jjay.cuny.edu/len/2002/12.31/page5.html |title=Don't tell New York, but crime is going up |publisher=Lib.jjay.cuny.edu |date= |accessdate=2011-08-20}}&lt;/ref&gt; In 2005 the [[list of countries by homicide rate|homicide rate]] was at its lowest level since 1966,&lt;ref&gt;{{cite web|url=http://www.istat.it/istat/eventi/2003/perunasocieta/relazioni/Langan_rel.pdf|title=The Remarkable Drop in Crime in New York City|last=Langan|first=Patrick A.|coauthors=Matthew R. Durose|date=October 21, 2004|publisher=Istituto Nazionale di Statistica|accessdate=February 8, 2009}}&lt;/ref&gt; and in 2007 the city recorded fewer than 500 [[homicide]]s for the first time ever since crime statistics were first published in 1963.&lt;ref&gt;[http://www.nytimes.com/2008/01/01/nyregion/01murder.html?_r=2&amp;scp=2&amp;sq=murder+in+2007&amp;oref=slogin Fewer Killings in 2007, but Still Felt in City's Streets], ''[[The New York Times]]'', January 1, 2008. Retrieved June 21, 2009.&lt;/ref&gt; 95.1% of all murder victims and 95.9% of all shooting victims in New York City are black or Hispanic. And 90.2 percent of those arrested for murder and 96.7 percent of those arrested for shooting someone are black or Hispanic.&lt;ref&gt;&quot;[http://voices.washingtonpost.com/postpartisan/2010/11/post_9.html The color of murder and gun violence in New York]&quot;. The Washington Post. November 10, 2010&lt;/ref&gt; 
+
+Sociologists and criminologists have not reached consensus on what explains the dramatic decrease in the city's crime rate. Some attribute the phenomenon to new tactics used by the [[New York City Police Department]],&lt;ref&gt;&quot;[http://www.telegraph.co.uk/news/uknews/1318236/Livingstone-to-follow-methods-of-the-NYPD.html Livingstone to follow methods of the NYPD]&quot;. Telegraph. January 17, 2001.&lt;/ref&gt; including its use of [[CompStat]] and the [[Fixing Broken Windows|broken windows theory]].&lt;ref&gt;&quot;[http://www.theage.com.au/articles/2002/11/02/1036027090656.html Staying a beat ahead of crime]&quot;. Theage.com.au. November 5, 2002.&lt;/ref&gt; Others cite the end of the crack epidemic and demographic changes.&lt;ref&gt;{{Cite book|title=The Crime Drop in America |chapter=The Rise and Decline of Hard Drugs, Drug Markets, and Violence in Inner-City New York |author=Johnson, Bruce D., Andrew Golub, Eloise Dunlap |editor=Blumstein, Alfred, Joel Wallman |year=2006 |publisher=Cambridge University Press |isbn=0521862795}}; {{Cite book|title=New York Murder Mystery: The True Story Behind the Crime Crash of the 1990s |author=Karmen, Andrew |year=2000 |publisher=NYU Press |isbn=0814747175}}&lt;/ref&gt;
+
+[[Organized crime]] has long been associated with New York City, beginning with the [[Forty Thieves (New York gang)|Forty Thieves]] and the [[Roach Guards]] in the [[Five Points, Manhattan|Five Points]] in the 1820s. The 20th century saw a rise in the [[American Mafia|Mafia]] dominated by the [[Five Families]] and they are still the largest and most powerful criminal organization in the city.&lt;ref&gt;{{Cite book|title=NYPD: A City and Its Police |author=Lardner, James, and Thomas Reppetto |publisher=Owl Books |year=2000 |pages=18–21 |isbn=0805055789}}&lt;/ref&gt; [[Gang]]s including the [[Black Spades]] also grew in the late 20th century.&lt;ref&gt;&quot;[http://www.gothamgazette.com/article/issueoftheweek/20010305/200/161 Youth Gangs]&quot;. [[Gotham Gazette]]. March 5, 2001.&lt;/ref&gt; As early as 1850, New York City recorded more than 200 gang wars fought largely by youth gangs.&lt;ref&gt;[http://findarticles.com/p/articles/mi_m2248/is_n118_v30/ai_17150109/ &quot;19th century AD.&quot;] ''Adolescence'', Summer, 1995 by Ruskin Teeter.&lt;/ref&gt; The most prominent gangs in New York City today are the [[Bloods]], [[Crips]], [[Latin Kings (gang)|Latin Kings]], and [[MS-13]].&lt;ref&gt;&quot;[http://www.pubadvocate.nyc.gov/policy/documents/WorkingPaperonGangs1.pdf Old Problem, New Eyes: Youth Insights on Gangs in New York City]{{dead link|date=October 2010}}&quot; (PDF). [[New York City Public Advocate|Public Advocate for the City of New York]]. November 2007.&lt;/ref&gt;
+
+==Education==
+{{Main|Education in New York City}}
+[[File:Low Library Columbia University 8-11-06.jpg|left|thumb|[[Columbia University]]'s Low Memorial Library]]
+The city's public school system, managed by the [[New York City Department of Education]], is the largest in the United States. About 1.1&amp;nbsp;million students are taught in more than 1,200 separate primary and secondary schools.&lt;ref&gt;{{cite web|url=http://home2.nyc.gov/html/dcp/download/census/sf3edp302.xls |title=School Enrollment by Level of School and Type of School for Population 3 Years and Over |publisher=[[New York City Department of City Planning]] |year=2000 |format=MS Excel |accessdate=September 1, 2008}}&lt;/ref&gt; [[Charter school]]s, which are partly publicly funded, include [[Harlem Success Academy]] and [[Public Prep|Girls Prep]]. There are approximately 900 additional privately run secular and religious schools in the city.&lt;ref&gt;{{cite web|url=http://nces.ed.gov/surveys/pss/ |title=Private School Universe Survey |publisher=National Center for Education Statistics |accessdate=September 1, 2008}}&lt;/ref&gt; Though it is not often thought of as a [[college town]], there are about 594,000 university students in New York City, the highest number of any city in the United States.&lt;ref&gt;{{Cite journal|publisher=Brookings Institution |title=New York in Focus: A Profile from Census 2000 |month=November|year=2003 |url=http://www.brookings.edu/es/urban/livingcities/newyork2.pdf |format=PDF |accessdate=September 1, 2008}}&lt;/ref&gt; In 2005, three out of five Manhattan residents were college graduates and one out of four had advanced degrees, forming one of the highest concentrations of highly educated people in any American city.&lt;ref&gt;{{Cite news|title=New York Area Is a Magnet For Graduates |author=McGeehan, Patrick |work=The New York Times |date=August 16, 2006 |url=http://query.nytimes.com/gst/fullpage.html?res=9404E7DE143EF935A2575BC0A9609C8B63 |accessdate=March 27, 2007}}&lt;/ref&gt;
+
+New York City is home to such notable private universities as [[Barnard College]], [[Columbia University]], [[Cooper Union]], [[Fordham University]], [[New York University]], [[The New School]], [[Pace University]], and [[Yeshiva University]]. The public [[City University of New York]] system is one of the largest universities in the nation, and includes a number of undergraduate colleges and associate degree [[community college]]s, with options in each borough. The city has dozens of other smaller private colleges and universities, including many religious and special-purpose institutions, such as [[St. John's University (Jamaica, NY)|St. John's University]], [[Juilliard School|The Juilliard School]], [[College of Mount Saint Vincent|The College of Mount Saint Vincent]], and [[School of Visual Arts|The School of Visual Arts]].
+[[File:Fordham University Keating Hall.JPG|right|thumb|[[Fordham University]]'s Keating Hall in The Bronx]]
+Much of the scientific research in the city is done in medicine and the life sciences. New York City has the most post-graduate life sciences degrees awarded annually in the United States, 40,000 licensed physicians, and 127 Nobel laureates with roots in local institutions.&lt;ref name=&quot;NYC science institutions&quot;&gt;{{cite press release |title=Mayor Michael R. Bloomberg and Economic Development Corporation President Andrew M. Alper Unveil Plans to Develop Commercial Bioscience Center in Manhattan |publisher=New York City Economic Development Corporation |url=http://home2.nyc.gov/portal/site/nycgov/menuitem.c0935b9a57bb4ef3daf2f1c701c789a0/index.jsp?pageID=mayor_press_release&amp;catID=1194&amp;doc_name=http%3A%2F%2Fhome2.nyc.gov%2Fhtml%2Fom%2Fhtml%2F2004b%2Fpr310-04.html&amp;cc=unused1978&amp;rc=1194&amp;ndi=1 |date=November 18, 2004 |accessdate=September 1, 2008}}&lt;/ref&gt; The city receives the second-highest amount of annual funding from the [[National Institutes of Health]] among all U.S. cities.&lt;ref&gt;{{cite web|url=http://report.nih.gov/award/trends/top100fy03.htm |title=NIH Domestic Institutions Awards Ranked by City, Fiscal Year 2003 |publisher=National Institutes of Health |year=2003 |accessdate=March 26, 2007}}&lt;/ref&gt; Major biomedical research institutions include [[Memorial Sloan-Kettering Cancer Center]], [[Rockefeller University]], [[SUNY Downstate Medical Center]], [[Albert Einstein College of Medicine]], [[Mount Sinai School of Medicine]] and [[Weill Cornell Medical College of Cornell University|Weill Cornell Medical College]].
+
+The [[New York Public Library]], which has the largest collection of any public library system in the country, serves Manhattan, the Bronx, and Staten Island.&lt;ref name=&quot;libraryspot&quot;&gt;{{cite web|url=http://www.libraryspot.com/lists/listlargestlibs.htm |title=Nation's Largest Libraries |publisher=LibrarySpot |accessdate=September 1, 2008}}&lt;/ref&gt; The New York Public Library has several research libraries, including the [[Arthur Schomburg Center for Research in Black Culture|Schomburg Center for Research in Black Culture]]. Queens is served by the [[Queens Borough Public Library]], which is the nation's second largest public library system. The [[Brooklyn Public Library]] serves Brooklyn.&lt;ref name=&quot;libraryspot&quot;/&gt;
+
+==Transportation==
+{{Main|Transportation in New York City}}
+[[File:Image-Grand central Station Outside Night 2.jpg|thumb|New York City is home to the two busiest rail stations in the US, including [[Grand Central Terminal]].]]
+[[Mass transit in New York City]], most of which runs 24 hours a day, is the most complex and extensive in North America. About one in every three users of mass transit in the United States and two-thirds of the nation's rail riders live in New York and its suburbs.&lt;ref name=&quot;MTAinfo&quot;&gt;{{cite web|title=The MTA Network: Public Transportation for the New York Region |publisher=Metropolitan Transportation Authority |url=http://www.mta.info/mta/network.htm |accessdate=September 1, 2008}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Commuting in America III: Commuting Facts |author=Pisarski, Alan |publisher=Transportation Research Board |date=October 16, 2006 |url=http://onlinepubs.trb.org/onlinepubs/nchrp/CIAIIIfacts.pdf |format=PDF |accessdate=September 1, 2008}}&lt;/ref&gt; The iconic [[New York City Subway]] system is [[metro systems by annual passenger rides|the busiest in the Western Hemisphere]], while [[Grand Central Terminal]], also popularly referred to as &quot;Grand Central Station&quot;, is the world's largest railway station by number of platforms. New York's airspace is one of the world's busiest air transportation corridors. The [[George Washington Bridge]], connecting Manhattan to [[Bergen County, New Jersey]], is the world's busiest motor vehicle bridge.&lt;ref&gt;{{cite web|url=http://www.panynj.gov/bridges-tunnels/george-washington-bridge.html|accessdate=March 25, 2010 |title=Port Authority of New York and New Jersey&amp;nbsp;– George Washington Bridge}}&lt;/ref&gt;&lt;ref name=&quot;recordonline.com&quot;&gt;[http://www.recordonline.com/apps/pbcs.dll/article?AID=/20061024/BIZ/610240312/-1/NEWS03 George Washington Bridge turns 75 years old: Huge flag, cake part of celebration], ''[[Times Herald-Record]]'', October 24, 2006. &quot;The party, however, will be small in comparison to the one that the Port Authority of New York and New Jersey organized for 5,000 people to open the bridge to traffic in 1931. And it won't even be on ''what is now the world's busiest bridge'' for fear of snarling traffic.&quot;&lt;/ref&gt;
+
+Public transit is popular in New York City. 54.6% of New Yorkers commuted to work in 2005 using mass transit.&lt;ref&gt;{{Cite news| url = http://money.cnn.com/2007/06/13/real_estate/public_transit_commutes/index.htm|title = New Yorkers are Top Transit Users|accessdate =January 2, 2008|author=Les Christie|date = June 29, 2007|work=CNNMoney.com|publisher=Cable News Network}}&lt;/ref&gt; This is in contrast to the rest of the United States, where about 90% of commuters drive automobiles to their workplace.&lt;ref name=2001summary&gt;{{cite web|title=NHTS 2001 Highlights Report, BTS03-05 |publisher=U.S. Department of Transportation, Bureau of Transportation Statistics |year=2001 |url=http://www.bts.gov/publications/highlights_of_the_2001_national_household_travel_survey/pdf/entire.pdf |format=PDF |accessdate=September 1, 2008}}&lt;/ref&gt; According to the US Census Bureau, New York City residents spend an average of 38.4 minutes a day getting to work, the longest commute time in the nation among large cities.&lt;ref&gt;{{cite web|title=New York Has Longest Commute to Work in Nation, American Community Survey Finds |month=December|year=2004 |url=http://www.census.gov/Press-Release/www/releases/archives/american_community_survey_acs/001695.html |accessdate=March 15, 2008 |archiveurl = http://web.archive.org/web/20080313083657/http://www.census.gov/Press-Release/www/releases/archives/american_community_survey_acs/001695.html |archivedate = March 13, 2008}}&lt;/ref&gt;
+[[File:DeKalb Avenue (BMT Fourth Avenue Line) by David Shankbone.jpg|thumb|left|The [[New York City Subway]] is the world's largest mass transit system by number of stations.]]
+[[File:George Washington Bridge, on a late winter afternoon.jpg|thumb|right|The [[George Washington Bridge]], connecting [[Washington Heights, Manhattan|Washington Heights]] in [[Upper Manhattan]] across the [[Hudson River]] to [[Fort Lee, New Jersey|Fort Lee]], [[Bergen County, New Jersey]], is the world's busiest motor vehicle bridge.&lt;ref&gt;{{cite web |url=http://www.panynj.gov/bridges-tunnels/george-washington-bridge.html|accessdate=April 26, 2011|title=Port Authority of New York and New Jersey – George Washington Bridge}}&lt;/ref&gt;]]
+New York City is served by [[Amtrak]], which uses [[Pennsylvania Station (New York City)|Pennsylvania Station]]. Amtrak provides connections to [[Boston]], [[Philadelphia]], and Washington, D.C. along the [[Northeast Corridor]] and long-distance train service to cities such as Chicago, New Orleans, [[Miami]], Toronto and [[Montreal]]. The [[Port Authority Bus Terminal]], the main [[intercity bus]] terminal of the city, serves 7,000 buses and 200,000 commuters daily, making it the busiest bus station in the world.&lt;ref&gt;{{cite press release|title=
+Architect Chosen for Planned Office Tower Above Port Authority Bus Terminal's North Wing|url=http://www.panynj.gov/AboutthePortAuthority/PressCenter/PressReleases/PressRelease/index.php?id=1154|publisher=[[Port Authority of New York and New Jersey]]|date=November 17, 2008|accessdate=May 17, 2009}}&lt;/ref&gt;
+
+The [[New York City Subway]] is the largest [[rapid transit]] system in the world when measured by stations in operation, with 468. It is the third-largest when measured by annual ridership (1.5&amp;nbsp;billion passenger trips in 2006).&lt;ref name=MTAinfo /&gt; New York's subway is also notable because nearly all the system remains open 24 hours a day, in contrast to the overnight shutdown common to systems in most cities, including [[London Underground|London]], [[Paris Métro|Paris]], [[Montreal Metro|Montreal]], [[Washington Metro|Washington]], [[Madrid Metro|Madrid]] and [[Tokyo Subway|Tokyo]]. The transportation system in New York City is extensive and complex. It includes the longest [[Verrazano-Narrows Bridge|suspension bridge]] in North America,&lt;ref&gt;{{cite web|url=http://www.nycroads.com/crossings/verrazano-narrows/ |title=Verrazano-Narrows Bridge |publisher=Nycroads.com |accessdate=September 1, 2008}}&lt;/ref&gt; the world's first mechanically ventilated vehicular [[Holland Tunnel|tunnel]],&lt;ref&gt;{{cite web|url=[http://www.nr.nps.gov/writeups/93001619.nl.pdf http://www.nr.nps.gov/writeups/93001619.nl.pdf]{{NRIS dead link}} |title=Holland Tunnel |publisher=National Park Service |date=November 4, 1993 |format=PDF |accessdate=September 1, 2008}}{{NRIS dead link}}&lt;/ref&gt; more than 12,000 [[Taxicabs of New York City|yellow cabs]],&lt;ref&gt;{{cite web|url=http://www.nyc.gov/html/tlc/downloads/pdf/state_of_taxi.pdf |title=The State of the NYC Taxi |publisher=New York City Taxi and Limousine Commission |date=March 9, 2006 |format=PDF |accessdate=September 1, 2008}}&lt;/ref&gt; an [[Roosevelt Island Tramway|aerial tramway]] that transports commuters between [[Roosevelt Island]] and Manhattan, and a ferry system connecting Manhattan to various locales within and outside the city. The busiest ferry in the United States is the [[Staten Island Ferry]], which annually carries over 19 million passengers on the {{convert|5.2|mi|km|sing=on}} run between Staten Island and [[Lower Manhattan]]. The [[Staten Island Railway]] rapid transit system solely serves Staten Island. The [[Port Authority Trans-Hudson]] (&quot;PATH&quot; train) links Midtown and Lower Manhattan to northeastern New Jersey, primarily [[Hoboken, New Jersey|Hoboken]], [[Jersey City]] and [[Newark, New Jersey|Newark]]. Like the New York City Subway, the PATH operates 24 hours a day; meaning two of the four rapid transit systems in the world which operate on 24-hour schedules are wholly or partly in New York (the others are a portion of the [[Chicago &quot;L&quot;]] and the [[PATCO Speedline]] serving Philadelphia).
+
+New York City's public [[MTA Regional Bus Operations|bus fleet]] and commuter rail network are the largest in North America.&lt;ref name=&quot;MTAinfo&quot; /&gt; The rail network, connecting the suburbs in the [[Tri-State Region|tri-state region]] to the city, consists of the [[Long Island Rail Road]], [[Metro-North Railroad]] and [[New Jersey Transit rail operations|New Jersey Transit]]. The combined systems converge at [[Grand Central Terminal]] and [[Pennsylvania Station (New York City)|Pennsylvania Station]] and contain more than 250 stations and 20 rail lines.&lt;ref name=&quot;MTAinfo&quot; /&gt;&lt;ref&gt;{{cite web|publisher=Metropolitan Transportation Authority |title=About the MTA Long Island Rail Road |url=http://www.mta.nyc.ny.us/lirr/pubs/aboutlirr.htm |accessdate=September 1, 2008}} {{Dead link|date=September 2010|bot=H3llBot}}&lt;/ref&gt;
+
+[[File:Jfkairport.jpg|thumb|The [[TWA]] Flight Center Building at [[John F. Kennedy International Airport]]]]
+New York City is the top international air passenger gateway to the United States.&lt;ref name=IntlTravel&gt;{{cite web|url=http://www.bts.gov/publications/us_international_travel_and_transportation_trends/2002/index.html |title=U.S. International Travel and Transportation Trends, BTS02-03 |publisher=U.S. Department of Transportation, Bureau of Transportation Statistics |year=2002 |accessdate=September 1, 2008}}&lt;/ref&gt; The area is served by three major airports, [[John F. Kennedy International Airport|John F. Kennedy International]], [[Newark Liberty International Airport|Newark Liberty International]] and [[LaGuardia Airport|LaGuardia]], with plans to expand a fourth airport, [[Stewart International Airport]] near [[Newburgh, New York]], by the [[Port Authority of New York and New Jersey]] (which administers the other three airports and took over control of Stewart in 2007), as a &quot;reliever&quot; airport to help cope with increasing passenger volume. 100 million travelers used the three airports in 2005 and the city's airspace is the busiest in the nation.&lt;ref&gt;{{cite web|url=http://www.panynj.gov/CommutingTravel/airports/pdfs/traffic/Air_Traffic_2005.pdf |title=2005 Annual Airport Traffic Report |publisher=The Port Authority of New York and New Jersey |date=November 2, 2006 |format=PDF |accessdate=February 18, 2007 |archiveurl = http://web.archive.org/web/20070605013009/http://www.panynj.gov/CommutingTravel/airports/pdfs/traffic/Air_Traffic_2005.pdf |archivedate = June 5, 2007}}&lt;/ref&gt; Outbound international travel from JFK and Newark accounted for about a quarter of all U.S. travelers who went overseas in 2004.&lt;ref&gt;{{cite press release |url=http://www.panynj.gov/AboutthePortAuthority/PressCenter/PressReleases/PressRelease/index.php?id=724 |title=Port Authority Leads Nation in Record-Setting Year for Travel Abroad |publisher=The Port Authority of New York and New Jersey |date=August 29, 2005 |accessdate=February 18, 2007}}&lt;/ref&gt; JFK Airport is the largest hub for [[JetBlue]]. It is the fourth largest hub for [[American Airlines]] and is the sixth largest hub for [[Delta Air Lines]]. Newark Airport will be the third largest hub for [[United Airlines]] once they complete their merger with [[Continental Airlines]]. This will make United Airlines the largest airline in the New York market.
+
+New York's high rate of [[List of U.S. cities with high transit ridership|public transit use]], 120,000 daily cyclists&lt;ref&gt;{{Cite news|title=Biking It|author=Schaller, Bruce |publisher=Gotham Gazette |month=June|year=2006 |url=http://www.gothamgazette.com/article/transportation/20060718/16/1910/|accessdate=September 1, 2008}}&lt;/ref&gt; and many [[List of U.S. cities with most pedestrian commuters|pedestrian commuters]] makes it the most energy-efficient major city in the United States.&lt;ref name=&quot;NYC energy consumption&quot; /&gt; Walk and bicycle modes of travel account for 21% of all modes for trips in the city; nationally the rate for metro regions is about 8%.&lt;ref&gt;{{cite web|title=2001 National Household Travel Survey: Summary of Travel Trends |publisher=U.S. Department of Transportation |month=December|year=2004 |url=http://nhts.ornl.gov/2001/pub/STT.pdf |format=PDF |accessdate=September 1, 2008}}&lt;/ref&gt; In 2011, [[Walk Score]] named it the most walkable city in the United States.&lt;ref&gt;{{cite news |url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2011/07/20/BUUK1KCC67.DTL&amp;tsp=1 |title=S.F., Oakland in top 10 most walkable U.S. cities |publisher=''San Francisco Chronicle'' |accessdate=July 20, 2011 |first=Carolyn |last=Said |date=July 20, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.marketwatch.com/story/the-10-most-walkable-us-cities-2011-07-20?link=MW_popular |title=The 10 most walkable U.S. cities |publisher=''MarketWatch'' |year=2011 |accessdate=July 20, 2011}}&lt;/ref&gt;
+
+To complement New York's vast mass transit network, the city also has an extensive web of [[freeway|expressways]] and [[parkway]]s, that link New York City to [[Northern New Jersey]], [[Westchester County, New York|Westchester County]], [[Long Island]], and southwest [[Connecticut]] through various [[Bridges and tunnels in New York City|bridges and tunnels]]. Because these highways serve millions of suburban residents who [[commuting|commute]] into New York, it is quite common for motorists to be stranded for hours in [[traffic congestion|traffic jams]] that are a daily occurrence, particularly during [[rush hour]].&lt;ref name=&quot;recordonline.com&quot;/&gt;
+
+Despite New York's reliance on public transit, roads are a defining feature of the city. [[Commissioners' Plan of 1811|Manhattan's street grid plan]] greatly influenced the city's physical development. Several of the city's streets and avenues, like [[Broadway (New York City)|Broadway]], [[Wall Street]] and [[Madison Avenue (Manhattan)|Madison Avenue]] are also used as [[metonymy|metonyms]] for national industries located there: the theater, finance, and advertising organizations, respectively.
+
+==Sister cities==
+New York City has ten historic [[town twinning|sister cities]]. The Sister City Program of the City of New York was restructured and renamed New York City Global Partners, Inc. in 2006 with the aim of expanding the City’s interaction with foreign cities while maintaining its historic ten sister city relationships.:&lt;ref&gt;{{cite web|url=http://www.nyc.gov/html/unccp/scp/html/sc/main.shtml|title=New York City Global Partners|year=2010|publisher=The City of New York|accessdate=January 27, 2010}}{{dead link|date=August 2011}}&lt;/ref&gt;
+
+{| class=&quot;wikitable&quot;  style=&quot;text-align:center; background:white; width:70%;&quot;
+|- style=&quot;color:white;&quot;
+! ! style=&quot;background:#659ec7; width:10%;&quot;| City
+! ! style=&quot;background:#659ec7; width:24%;&quot;| Geographical location
+! ! style=&quot;background:#659ec7; width:22%;&quot;| Nation
+! ! style=&quot;background:#659ec7; width: 5%;&quot;| Since
+|-
+|! ! style=&quot;background:lemonchiffon;&quot;| '''Tokyo'''
+|! ! align=left| [[Kantō region]] ([[Honshū]] island)
+|! ! align=left| {{Flag|Japan|size=30px}}
+|! !| 1960
+|-
+|! ! style=&quot;background:lemonchiffon;&quot;| '''Beijing'''
+|! ! align=left| [[Bohai Economic Rim]], North China
+|! ! align=left| {{Flag|China|size=30px}}&lt;ref&gt;{{cite web|url=http://www.ebeijing.gov.cn/Sister_Cities/Sister_City/|title=Sister Cities|publisher=Beijing Municipal Government|accessdate=June 23, 2009}}&lt;/ref&gt;
+|! !| 1980
+|-
+|! ! style=&quot;background:lemonchiffon;&quot;| '''[[Cairo]]'''
+|! ! align=left| [[Cairo Governorate]]
+|! ! align=left| {{Flag|Egypt|size=30px}}
+|! !| 1982
+|-
+|! ! style=&quot;background:lemonchiffon;&quot;| '''[[Madrid]]'''
+|! ! align=left|  [[Community of Madrid]]
+|! ! align=left| {{Flag|Spain|size=30px}}&lt;ref name=&quot;hermanadas&quot;&gt;{{cite web| title = Mapa Mundi de las ciudades hermanadas|publisher=Ayuntamiento de Madrid|url = http://www.munimadrid.es/portal/site/munimadrid/menuitem.dbd5147a4ba1b0aa7d245f019fc08a0c/?vgnextoid=4e84399a03003110VgnVCM2000000c205a0aRCRD&amp;vgnextchannel=4e98823d3a37a010VgnVCM100000d90ca8c0RCRD&amp;vgnextfmt=especial1&amp;idContenido=1da69a4192b5b010VgnVCM100000d90ca8c0RCRD }}&lt;/ref&gt;
+|! !| 1982
+|-
+|! ! style=&quot;background:lemonchiffon;&quot;| '''[[Santo Domingo]]'''
+|! ! align=left|  [[Distrito Nacional|National District]]
+|! ! align=left| {{Flag|Dominican Republic|size=30px}}
+|! !|1983
+|-
+|! ! style=&quot;background:lemonchiffon;&quot;| '''[[Budapest]]'''
+|! ! align=left| [[Central Hungary]]
+|! ! align=left| {{Flag|Hungary|size=30px}}
+|! !| 1992
+|-
+|! ! style=&quot;background:lemonchiffon;&quot;| '''Rome'''
+|! ! align=left|  [[Lazio]] ([[Latium]])
+|! ! align=left| {{Flag|Italy|size=30px}}
+|! !| 1992
+|-
+|! ! style=&quot;background:lemonchiffon;&quot;| '''[[Jerusalem]]'''
+|! ! align=left| [[Jerusalem District]]
+|! ! align=left| {{Flag|Israel|size=30px}}
+|! !| 1993
+|-
+|! ! style=&quot;background:lemonchiffon;&quot;| '''London'''
+|! ! align=left| [[England]]
+|! ! align=left| {{Flagcountry|UK|size=30px}}
+|! !| 2001
+|-
+|! ! style=&quot;background:lemonchiffon;&quot;| '''[[Johannesburg]]'''
+|! ! align=left| [[Gauteng]] Province&lt;ref&gt;occupies part of the former province of [[Transvaal Province|Transvaal]]&lt;/ref&gt;
+|! ! align=left| {{Flag|South Africa|size=30px}}
+|! !| 2003
+|}
+
+Like New York, all except Beijing are the most populous cities of their respective nations,&lt;ref&gt;''[[The Statesman's Yearbook]] 2003'', edited by Barry Turner, [[Palgrave Macmillan]] ([[Basingstoke]], London and New York), 2002, ISBN 0-333-98096-4&lt;/ref&gt; but unlike New York, all but Johannesburg also serve as ''de facto'' or ''[[de jure]]'' national political capitals. New York and her sister cities are all major economic centers, but few of the sister cities share New York's status as a major seaport.&lt;ref&gt;&quot;Countries of the World&quot;, ''[[Whitaker's Almanack]] 1999'' (Standard Edition), [[The Stationery Office]], London, 1998, ISBN 0-11-702240-3, pages 781–785 &amp; page 907&lt;/ref&gt;
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+{{refbegin|30em}}
+*{{cite book |last=Belden |first=E. Porter |year=1849 |url=http://books.google.com/books?id=Jv-nXd8W8b0C&amp;printsec=titlepage |title=New York, Past, Present, and Future: Comprising a History of the City of New York, a Description of its Present Condition, and an Estimate of its Future Increase |location=New York |publisher=G.P. Putnam }} From [[Google Book Search|Google Books]].
+*{{cite book |authorlink=Anthony Burgess |last=Burgess |first=Anthony |year=1976 |title=[[New York (Anthony Burgess book)|New York]] |location=New York |publisher=Little, Brown &amp; Co. |isbn=9061822661 }}
+*{{Cite gotham}}
+*{{cite book |authorlink=Federal Writers' Project |author=Federal Writers' Project |year=1939 |title=The WPA Guide to New York City |location=New York |publisher=The New Press |edition=1995 reissue |isbn=1565843215 }}
+*{{Cite enc-nyc}}
+*{{cite book |editor1-last=Jackson |editor1-first=Kenneth T. |editor2-last=Dunbar |editor2-first=David S. |year=2005 |title=Empire City: New York Through the Centuries |location= |publisher=Columbia University Press |isbn=0231109091 }}
+*{{Cite book |title=American Metropolis: A History of New York City |last=Lankevich |first=George L. |publisher=NYU Press |year=1998 |isbn=0814751865 }}
+*{{cite book |authorlink=E. B. White |last=White |first=E. B. |year=1949 |title=Here is New York |location= |publisher=Little Bookroom |edition=2000 reissue }}
+*{{Cite AIA4}}
+*{{cite book |authorlink=Colson Whitehead |last=Whitehead |first=Colson |year=2003 |title=The Colossus of New York: A City in 13 Parts |location=New York |publisher=Doubleday |isbn=0385507941 }}
+{{refend}}
+
+==External links==
+{{Portal box|New York|New York City}}
+{{Sister project links}}
+{{Wikipedia books}}
+* [http://www.nyc.gov/ NYC.gov] is the official website of New York City.
+* [http://nycvisit.com/ NYCvisit.com] is the official tourism website of New York City.
+* {{Wikitravel}}
+* {{dmoz|Regional/North_America/United_States/New_York/Localities/N/New_York_City|New York City}}
+* [http://www.nyc.gov/html/doitt/html/miscs/citymap.html NYCityMap] is an interactive map of New York City, and includes subway stations and entrances.
+* {{Wikisource1911Enc Citation|wstitle=New York (city)}}
+* [http://collections.mcny.org/MCNY/C.aspx?VP3=CMS3&amp;VF=MNY_HomePage#/CMS3&amp;VF=MNY_HomePage More than 62,000 historic photographs] of New York City are available online through the Museum of the City of New York.
+* [http://www.beautyofnyc.org/ BeautyOfNYC] explains the beauty of New York City landmarks, art, and poetry.
+* [http://thecityreview.com/home.html The City Guide] has many articles on New York City and historical architectural information by Carter B. Horsley, writer for ''[[The New York Sun]]'' newspaper.
+*[http://www.pbs.org/wnet/newyork/ New York A Documentary Film] directed by [[Ric Burns]] is a cinematic history of the city from its beginnings through 2003.
+{{osmrelation-inline|175905}}
+{{New York City}}
+{{Long Island region}}
+{{New York metropolitan area}}
+{{New York}}
+{{Paralympic Summer Games Host Cities}}
+{{Template group
+|title = Other articles related to New York City's population and geography
+|list  =
+{{Template group
+|title = [[File:Gnome-globe.svg|25px]]{{nbsp}}Geographic locale
+|list  =
+{{Geographic location
+| Centre = New York City
+| North = [[Westchester County, New York|Westchester County]]&lt;br /&gt;[[Yonkers, New York|Yonkers]]
+| Northeast = ''[[Long Island Sound]]''
+| East = [[Nassau County, New York|Nassau County]]
+| Southeast = ''Atlantic Ocean''
+| South = [[Monmouth County, New Jersey|Monmouth County]], [[New Jersey|NJ]]
+| Southwest = [[Middlesex County, New Jersey|Middlesex County]], [[New Jersey|NJ]]
+| West = [[Hudson County, New Jersey|Hudson County]], [[New Jersey|NJ]]&lt;br /&gt;[[Jersey City, New Jersey|Jersey City]]
+| Northwest = [[Bergen County, New Jersey|Bergen County]], [[New Jersey|NJ]]
+| image = Compass_rose_pale.svg
+}}
+'''[[Geographic coordinate system|Lat. &lt;small&gt;and&lt;/small&gt; Long.]] {{Coord|40|43|N|74|0|W|region:US-NY|display=inline}}'''
+}}
+{{USLargestCities}}
+{{USLargestMetros}}
+{{World's most populated urban areas}}
+{{Location of US capital}}
+}}
+
+[[Category:New York City| ]]
+[[Category:Cities in New York]]
+[[Category:Former capitals of the United States]]
+[[Category:Former national capitals]]
+[[Category:Former United States state capitals]]
+[[Category:Government of New York City]]
+[[Category:Metropolitan areas of the United States]]
+[[Category:Populated places established in 1624]]
+[[Category:Populated places on the Hudson River]]
+[[Category:Port settlements in the United States]]
+[[Category:1624 establishments in the Thirteen Colonies]]
+
+{{Link GA|cs}}
+{{Link GA|da}}
+{{Link GA|de}}
+{{Link FA|es}}
+{{Link FA|eu}}
+{{Link FA|ka}}
+{{Link FA|nl}}
+{{Link GA|ja}}
+{{Link GA|id}}
+
+[[af:New York Stad]]
+[[als:New York City]]
+[[am:ኒው ዮርክ ከተማ]]
+[[ang:Nīƿeoforƿīcburg]]
+[[ar:نيويورك (مدينة)]]
+[[an:Nueva York]]
+[[arc:ܢܝܘ ܝܘܪܩ (ܡܕܝܢܬܐ)]]
+[[roa-rup:New York City]]
+[[frp:New York]]
+[[ast:Nueva York]]
+[[gn:Táva Nueva York]]
+[[ay:New York]]
+[[az:Nyu-York]]
+[[bn:নিউ ইয়র্ক]]
+[[zh-min-nan:New York City]]
+[[ba:Нью-Йорк]]
+[[be:Горад Нью-Ёрк]]
+[[be-x-old:Нью-Ёрк]]
+[[bcl:Nueva York]]
+[[bar:New York City]]
+[[bo:ནེའུ་ཡོར་ཀ།]]
+[[bs:New York City]]
+[[br:New York]]
+[[bg:Ню Йорк]]
+[[ca:Nova York]]
+[[cv:Çĕнĕ Йорк]]
+[[ceb:Dakbayan sa New York]]
+[[cs:New York]]
+[[co:New York]]
+[[cy:Dinas Efrog Newydd]]
+[[da:New York]]
+[[pdc:Nei Yarrick Schtadt]]
+[[de:New York City]]
+[[et:New York]]
+[[el:Νέα Υόρκη]]
+[[es:Nueva York]]
+[[eo:Novjorko]]
+[[ext:Nueva York]]
+[[eu:New York]]
+[[fa:نیویورک سیتی]]
+[[hif:New York City]]
+[[fo:New York City]]
+[[fr:New York]]
+[[fy:New York City]]
+[[ga:Nua-Eabhrac (cathair)]]
+[[gv:Caayr York Noa]]
+[[gd:Eabhraig Nuadh (baile)]]
+[[gl:Nova York - New York]]
+[[gan:紐約]]
+[[xal:Нью Йорк балһсн]]
+[[ko:뉴욕]]
+[[hy:Նյու Յորք]]
+[[hi:न्यूयॉर्क नगर]]
+[[hsb:New York City]]
+[[hr:New York City, New York]]
+[[io:New York]]
+[[ig:New York City]]
+[[ilo:Lungsod ng New York]]
+[[id:New York City]]
+[[ia:New York (citate)]]
+[[ik:Tchiaq York Iniqpak]]
+[[os:Нью-Йорк]]
+[[is:New York-borg]]
+[[it:New York]]
+[[he:ניו יורק]]
+[[jv:New York]]
+[[kn:ನ್ಯೂ ಯಾರ್ಕ್ ನಗರ]]
+[[pam:New York Lakanbalen]]
+[[krc:Нью-Йорк]]
+[[ka:ნიუ-იორკი]]
+[[kk:Нью-Йорк]]
+[[kw:Evrek Nowydh]]
+[[sw:New York]]
+[[ht:Nouyòk]]
+[[ku:New York City]]
+[[mrj:Нью-Йорк]]
+[[lad:Mueva York]]
+[[la:Novum Eboracum (urbs)]]
+[[lv:Ņujorka]]
+[[lb:New York City]]
+[[lt:Niujorkas]]
+[[lij:Neuva York (çittæ)]]
+[[li:New York City]]
+[[jbo:niuiork. zei tcadu]]
+[[hu:New York]]
+[[mk:Њујорк (град)]]
+[[mg:New York]]
+[[ml:ന്യൂയോർക്ക് നഗരം]]
+[[mi:New York City]]
+[[mr:न्यू यॉर्क शहर]]
+[[arz:نيويورك]]
+[[mzn:نیویورک]]
+[[ms:Bandar Raya New York]]
+[[mwl:Nuoba Iorque]]
+[[mn:Нью-Йорк хот]]
+[[nah:Āltepētl Yancuīc York]]
+[[na:New York]]
+[[nl:New York City]]
+[[nds-nl:Niej-York]]
+[[ne:न्यूयोर्क शहर]]
+[[ja:ニューヨーク]]
+[[nap:Nova York]]
+[[no:New York]]
+[[nn:New York by]]
+[[nrm:Nouvieau York]]
+[[nov:Novi York]]
+[[oc:Nòva York]]
+[[uz:Nyu York]]
+[[pa:ਨਿਊਯਾਰਕ ਸ਼ਹਿਰ]]
+[[km:ក្រុង​ញូវយ៉ក]]
+[[pfl:Nju Yoorg Siddi]]
+[[pnb:نیو یارک شہر]]
+[[pap:New York City]]
+[[pms:New York]]
+[[tpi:Niu Yok Siti]]
+[[nds:New York]]
+[[pl:Nowy Jork]]
+[[pt:Nova Iorque]]
+[[ty:New York]]
+[[ro:New York (oraș)]]
+[[rmy:New York City]]
+[[rm:New York]]
+[[qu:New York]]
+[[rue:Ню Йорк (місто)]]
+[[ru:Нью-Йорк]]
+[[sah:Нью Йорк]]
+[[sa:न्‍यू यार्क]]
+[[sc:New York]]
+[[sco:New York Ceety]]
+[[stq:New York City]]
+[[sq:New York City]]
+[[scn:Nova York]]
+[[simple:New York City]]
+[[sk:New York (mesto)]]
+[[sl:New York]]
+[[szl:Nowy Jork]]
+[[so:New York]]
+[[sr:Њујорк]]
+[[sh:New York]]
+[[fi:New York]]
+[[sv:New York]]
+[[tl:Lungsod ng New York]]
+[[ta:நியூயார்க் நகரம்]]
+[[roa-tara:Nuève York]]
+[[tt:Нью-Йорк]]
+[[te:న్యూయార్క్]]
+[[th:นครนิวยอร์ก]]
+[[tg:Ню-Йорк]]
+[[tr:New York]]
+[[tk:Nýu-Ýork]]
+[[udm:Нью-Йорк]]
+[[bug:Kuta New York]]
+[[uk:Нью-Йорк]]
+[[ur:نیویارک شہر]]
+[[ug:Nyu York Shehiri]]
+[[za:Niujyoz]]
+[[vec:New York]]
+[[vi:Thành phố New York]]
+[[vo:New York (zif)]]
+[[fiu-vro:New York]]
+[[zh-classical:紐約市]]
+[[war:Syudad han New York]]
+[[wuu:纽约市]]
+[[yi:ניו יארק (שטאט)]]
+[[yo:New York]]
+[[zh-yue:紐約市]]
+[[diq:New York City]]
+[[bat-smg:Niojuorks]]
+[[zh:纽约]]</text>
+    </revision>
+  </page>
+</mediawiki>
+
