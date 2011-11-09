@@ -22,10 +22,10 @@ object WikiProcessor{
 
     // clean filename if image came from infobox
     // the regex captures the whole line
-    filename = if(filename.contains("= "))
-                 filename.split("= ").last
+    filename = if(filename.contains("="))
+                 filename.split("=").last
                else
-                 filename.replace("image=", "")
+                 filename
 
     "%s\t%s\t%s".format(title, id, filename)
   }
