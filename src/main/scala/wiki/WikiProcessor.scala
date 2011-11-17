@@ -27,7 +27,7 @@ object WikiProcessor{
                else
                  filename
 
-    "%s\t%s\t%s".format(title, id, filename)
+    "%s\t%s\t%s".format(title, id, filename.trim)
   }
 
   def main(args:Array[String]){

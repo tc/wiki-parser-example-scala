@@ -15,4 +15,12 @@ class WikiProcessorTest{
 
     assertEquals("New York City\t645042\tNYC Montage 2011.jpg", record)
   }
+
+  @Test
+  def testOneLineFile{
+    val xmlContent = FileUtils.readFileToString(new File("src/test/resources/wiki-xml/one_line.xml"))
+    val record = WikiProcessor.extractFirstImage(xmlContent)
+
+    assertEquals("New York City\t645042\tNYC Montage 2011.jpg", record)
+  }
 }
